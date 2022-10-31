@@ -1,0 +1,69 @@
+{
+    "name": "Electic Arousal",
+    "costType": "ep",
+        "cost": "24",
+    "requiredLevel": "5",
+    "learningCost": "750",
+    "skillType": "attack",
+    "statType": "Intelligence",
+    "requiredStat": "20",
+
+    "skillTags": [ "Magic"],
+    "fetishTags": [ ""],
+
+    "startsStance": [ ""],
+    "requiresStance": [ "Any"],
+    "unusableIfStance": [ ""],
+    "requiresTargetStance": [ "Any"],
+    "unusableIfTarget": [ ""],
+    "removesStance": [ "None"],
+
+    "requiresPerk": [ ""],
+    "requiresOnePerk": [ ""],
+    "unusableIfPerk": [ ""],
+    "requiresPerkSelf": [ ""],
+    "requiresOnePerkSelf": [ ""],
+    "unusableIfPerkSelf": [ ""],
+
+    "requiresStatusEffect": "None",
+    "requiresStatusPotency": "0",
+    "unusableIfStatusEffect": [ "None"],
+        "requiresStatusEffectSelf": "None",
+        "requiresStatusPotencySelf": "0",
+        "unusableIfStatusEffectSelf": [ "None"],
+
+        "scalesWithStatusEffect": "",
+        "flatDamageSF-FlatScaling": "0",
+        "flatDamageSF-PercentScaling": "0",
+        "totalDamageSF-PercentScaling": "0",
+
+    "targetType": "single",
+        "accuracy": "0",
+        "initiative": "0",
+
+    "power": "25",
+        "minRange": "100",
+        "maxRange": "200",
+    "recoil": "0",
+    "critDamage": "80",
+    "critChance": "20",
+
+    "statusEffect": "Stun",
+        "statusPotency": "0",
+        "statusEffectScaling": "0",
+        "statusDuration": "3",
+        "statusChance": "85",
+        "statusResistedBy": "",
+
+    "statusText": "",
+    "descrip": "Mimics the Voltic's electifying arousal capabilities, chance to apply stun.",
+    "outcome": "{AttackerName} casts a bolt of electrically arousing magic at {TargetName}, causing {targetType} to shudder in ecstacy as a mild elecric shock courses through their nether regions...",
+    "miss": "{AttackerName} attemps to cast a spell of elecric arousal at {TargetName}, but the spell fizzles out and refuses to cast.",
+    "statusOutcome": "{TargetName} is left electified on the floor as they writhe in bliss from the shocks. {TargetName} is stunned!",
+    "statusMiss": "",
+
+    "restraintStruggle": [ ""],
+    "restraintStruggleCharmed": [ ""],
+    "restraintEscaped": [ ""],
+    "restraintEscapedFail": [ ""]
+}
