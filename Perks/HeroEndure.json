@@ -1,0 +1,14 @@
+{
+    "name": "Heroic Endurace",
+    "description": "Flooded with the power of heroes from ancient times, you find yourself able to endure the most erotic of girls.",
+
+    "LevelReq": "10",
+    "PerkReq": [ ""],
+    "StatReq": [ "Willpower"],
+    "StatReqAmount": [ "20"],
+
+    "PerkType": [ "DamageReduction", "GainEnergy", "GainArousal", "SexSensitivity"],
+    "EffectPower": [ "10", "20", "100", "-15"],
+
+    "PlayerCanPurchase": "Yes"
+}

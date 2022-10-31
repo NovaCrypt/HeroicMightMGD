@@ -1,0 +1,14 @@
+{
+    "name": "Heroic Seed",
+    "description": "Blessed with seed of heroes, your virility gains a moderate boost.",
+
+    "LevelReq": "20",
+    "PerkReq": [ "Heroic Spirit Essence"],
+    "StatReq": [ "Allure"],
+    "StatReqAmount": [ "25"],
+
+    "PerkType": [ "VirilityBoost"],
+    "EffectPower": [ "50"],
+
+    "PlayerCanPurchase": "Yes"
+}

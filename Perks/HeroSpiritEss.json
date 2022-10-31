@@ -1,0 +1,14 @@
+{
+    "name": "Heroic Spirit Essence",
+    "description": "Gain the spirit of heroes and endure the toughest of all battles with ease! You gain 3 spirit.",
+
+    "LevelReq": "5",
+    "PerkReq": [ ""],
+    "StatReq": [ "Willpower"],
+    "StatReqAmount": [ "20"],
+
+    "PerkType": [ "GainSpirit", "VirilityBoost"],
+    "EffectPower": [ "3", "30"],
+
+    "PlayerCanPurchase": "Yes"
+}
