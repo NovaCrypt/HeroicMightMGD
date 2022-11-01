@@ -1,0 +1,16 @@
+{
+    "name": "Head over to Elly's table.",
+    "Addition": "Yes",
+    "Speakers": [
+    ],
+    "EventText": [
+        {
+            "NameOfScene": "LearnSkills",
+            "theScene": [
+                        "SkillShoppingMenuAddition",
+                            "Electic Arousal",
+                        "EndLoop"
+            ]
+        }
+    ]
+}
