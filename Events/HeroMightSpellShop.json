@@ -5,11 +5,30 @@
     ],
     "EventText": [
         {
-            "NameOfScene": "LearnSkills",
+            "NameOfScene": "VisitMenu",
             "theScene": [
-                        "SkillShoppingMenuAddition",
-                            "Electic Arousal",
+                        "MenuAddition",
+                            "Any specialty spells for me?",
                         "EndLoop"
+            ]
+        },
+        {
+            "NameOfScene": "Any specialty spells for me?",
+            "theScene": [
+                "Speaks", "Well, I normally try not to play favourites...",
+                "ProgressEqualsOrGreater", "25", "HeroicSkillsShop",
+                "Speaks", "So no. Sorry but I can't treat you better than the other adventurers, it wouldnt't be fair.",
+                "She's clearly determined in this decision, maybe I should get to know her a little better first.",
+                "JumpToScene", "VisitMenu"
+            ]
+        },
+        {
+            "NameOfScene": "HeroicSkillsShop",
+            "theScene": [
+                "SkillShoppingMenu",
+                    "Electric Arousal",
+                "EndLoop",
+                "JumpToScene", "VisitMenu"
             ]
         }
     ]
