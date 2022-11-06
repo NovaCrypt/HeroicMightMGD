@@ -1,0 +1,28 @@
+{
+  "name": "Pray to the Goddess Statue.",
+  "Addition": "Yes",
+  "Speakers": [],
+  "EventText": [
+    {
+      "NameOfScene": "LucilleMenu",
+      "theScene": [
+        "MenuAddition",
+        "Learn Skills.",
+        "OverrideOption",
+        "FinalOption",
+        "Go back to praying.",
+        "EndLoop"
+      ]
+    },
+    {
+      "NameOfScene": "Learn Skills.",
+      "theScene": [
+        "SkillShoppingMenu",
+        "Heoric Headpat", "Hero's Lightning",
+        "EndLoop",
+        "JumpToScene",
+        "LucilleMenu"
+      ]
+    }
+  ]
+}
