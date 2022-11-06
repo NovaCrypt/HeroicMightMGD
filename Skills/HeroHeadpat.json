@@ -1,0 +1,69 @@
+{
+    "name": "Heroic Headpat",
+    "costType": "ep",
+        "cost": "10",
+    "requiredLevel": "10",
+    "learningCost": "1000",
+    "skillType": "attack",
+    "statType": "Willpower",
+    "requiredStat": "10",
+
+    "skillTags": [ "Holy"],
+    "fetishTags": [ ""],
+
+    "startsStance": [ ""],
+    "requiresStance": [ "Any"],
+    "unusableIfStance": [ "Face Sit", "Footjob", "Nursing", "Breast Smother"],
+    "requiresTargetStance": [ "Any"],
+    "unusableIfTarget": [ ""],
+    "removesStance": [ "None"],
+
+    "requiresPerk": [ ""],
+    "requiresOnePerk": [ ""],
+    "unusableIfPerk": [ ""],
+    "requiresPerkSelf": [ ""],
+    "requiresOnePerkSelf": [ ""],
+    "unusableIfPerkSelf": [ ""],
+
+    "requiresStatusEffect": "None",
+    "requiresStatusPotency": "0",
+    "unusableIfStatusEffect": [ "None"],
+        "requiresStatusEffectSelf": "None",
+        "requiresStatusPotencySelf": "0",
+        "unusableIfStatusEffectSelf": [ "None"],
+
+        "scalesWithStatusEffect": "",
+        "flatDamageSF-FlatScaling": "0",
+        "flatDamageSF-PercentScaling": "0",
+        "totalDamageSF-PercentScaling": "0",
+
+    "targetType": "single",
+        "accuracy": "0",
+        "initiative": "0",
+
+    "power": "20",
+        "minRange": "70",
+        "maxRange": "130",
+    "recoil": "0",
+    "critDamage": "0",
+    "critChance": "0",
+
+    "statusEffect": "Stun",
+        "statusPotency": "0",
+        "statusEffectScaling": "0",
+        "statusDuration": "1",
+        "statusChance": "15",
+        "statusResistedBy": "Willpower",
+
+    "statusText": "",
+    "descrip": "A actually useful holy skill taught to you by Lucille for the purpose of subduing monster girls peacefully. Scales with virility.",
+    "outcome": "{AttackerName} reaches forward and pats {TargetName}'s head with heroicly gentle care, filling {TargetHimOrHer} with a gentle feeling of calm.",
+    "miss": "{AttackerName} reaches forward and tries to pat {TargetName}'s head, but {TargetHeOrShe} dodges it with ease!",
+    "statusOutcome": "{AttackerName} is stunned by the sudden onset affection!",
+    "statusMiss": "",
+
+    "restraintStruggle": [ ""],
+    "restraintStruggleCharmed": [ ""],
+    "restraintEscaped": [ ""],
+    "restraintEscapedFail": [ ""]
+}
