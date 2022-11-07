@@ -1,0 +1,1777 @@
+{
+  "name": "Demonic Slime",
+  "IDname": "Demon Slime",
+  "species": "Demon Slime",
+  "gender": "female",
+  "description": "A cheerful, slightly translucent purple gooey girl with necklong slimey hair and rather average looking curves despite her malleable nature. A small black core floats in her torso, gently drifting around every time she moves. Her long legs end in a small, blobby puddle where her feet would be.",
+  "encyclopedia": "These extremely rare monster girls are entirely made of dark purple goo, and subsist primarily on demonic energy for sustenance. They are far more intelligent than the average slime, so it is much more difficult to trick or deceive them.\n\nCare must be taken around them, because their favorite kind of food is sexual juices of any kind, and they have been known to wring out as much as they can from any humans they catch.\n\nIf conflict is unavoidable, use of pain or brute force is not advised, as their bodies make them all but immune to those types of attacks. When demonised, their only weakness is that of holy magic.",
+  "tags": "none",
+  "generic": "True",
+  "requires": ["Sigil of Allure"],
+  "skillList": [
+    "Gooey Caress",
+    "Deep Kiss",
+    "Gooey Grapple",
+    "Slime Cling",
+    "Slime Engulf",
+    "Full Body Slime Massage",
+    "Slimy Prostate Milking",
+    "Twisting Gooey Sex",
+    "Slimy Insertion",
+    "Gooey Titfucking",
+    "Slimy Cushion",
+    "Gooey Titfuck",
+    "Gooey Titfuck",
+    "Jellowy Squeeze",
+    "Jellowy Squeeze",
+    "Accidental Slime Fuck",
+    "Slimy Escape",
+    "Slimy Re-Insertion",
+    "Slimy Titfucking",
+    "Urethral Slime Attack",
+    "Slimy Prostate Milking",
+    "Witches Temptation"
+  ],
+  "perks": ["Pacing", "Sadist", "Swift", "Clingy", "Calculated"],
+  "stats": {
+    "lvl": "15",
+    "Exp": "350",
+    "max_hp": "435",
+    "max_ep": "80",
+    "max_sp": "3",
+    "Power": "13",
+    "Technique": "11",
+    "Intelligence": "19",
+    "Allure": "11",
+    "Willpower": "6",
+    "Luck": "23"
+  },
+  "Fetishes": [""],
+  "BodySensitivity": {
+    "Sex": "50",
+    "Ass": "75",
+    "Breasts": "20",
+    "Mouth": "50",
+    "Seduction": "80",
+    "Magic": "5",
+    "Pain": "5",
+    "Holy": "300",
+    "Unholy": "0"
+  },
+  "resistancesStatusEffects": {
+    "Stun": "100",
+    "Charm": "30",
+    "Aphrodisiac": "70",
+    "Restraints": "100",
+    "Sleep": "150",
+    "Trance": "100",
+    "Paralysis": "100",
+    "Debuff": "-25"
+  },
+  "moneyDropped": "500",
+  "ItemDropList": [
+    {
+      "name": "Blue Slime Blob",
+      "dropChance": "75"
+    },
+    {
+      "name": "Blue Slime Blob",
+      "dropChance": "50"
+    },
+    {
+      "name": "Blue Slime Blob",
+      "dropChance": "25"
+    },
+    {
+      "name": "Soothing Potion",
+      "dropChance": "45"
+    }
+  ],
+  "lossScenes": [
+    {
+      "NameOfScene": "Ooey Gooey Titfucking",
+      "move": "",
+      "stance": "Titfuck",
+      "includes": ["Blue Slime"],
+      "theScene": [
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base Blush",
+        "You gasp and weakly struggle against the slime's gooey body, but you're far too tired to even begin to break free of her grasp as she looks down at you with an innocent, noticeably eager expression.",
+        "Speaks",
+        "Huh? You're not going to try and run away anymore?",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Happy",
+        "Her face breaks out into a happy smile as a blobby cushion of her slime begins to pool underneath you, slowly trapping your arms and comfortably squeezing your body as she continues to gently titfuck your sensitive manhood.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Excited Blush",
+        "Speaks",
+        "Yay!♪ That means I get to drain out alllll of your cum!♪ Don't worry, I'm going to make you feel {i}suuuper{/i} good!♪",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base Blush",
+        "She tightly squeezes her tits around your rigid cock with a wet squish before she starts to roughly stroke your rigid erection with her slimy chest at a frantic, energetic pace.",
+        "Already feeling exhausted and excessively sexually stimulated, you can only moan in pleasure as her gelatinous tits work your twitching shaft, which occasionally raise in volume as she brings her face down to lick the precum off of your sensitive tip with her slimy tongue, giggling as she watches you squirm in her grip.",
+        "The blob of slime you're resting on begins to gently massage and tease every inch of your back while shivering pleasure races through your hips, forcing a warm relaxation to spread through you as she squeezes and kneads out every last bit of tension in your body even as she continues to tease your cock into a horny, throbbing mess.",
+        "You can feel a small line of drool begin to trail down the side of your face as you continue to lightly shiver in pleasure, having a hard time thinking straight with the loose, unfocused bliss her massaging slime is giving your body while more and more tension builds in your groin, making you feel like you're melting away into nothingness...",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Excited Blush",
+        "Speaks",
+        "Ah!♪ You're gonna cum!♪ Go on!♪ Cum!♪ Cum!♪ Cum!♪",
+        "PlayerOrgasm",
+        "1",
+        "The slime eagerly pumps your aching shaft harder and faster to punctuate her words, making you blissfully moan as the pressure in your spasming manhood builds with every movement she makes until you're finally pushed over the edge, crying out in ecstasy as your cock spurts thick ropes of cum all over the slime's breasts and smiling face.",
+        "She giggles happily as her gooey body begins to absorb your semen, and you watch it cloud her slime before slowly dissolving into nothingness, taking a movement to recover from your orgasm as your shaft throbs between her breasts.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base Blush",
+        "Speaks",
+        "Hahhh...♪ Your cum tastes soooo good!♪",
+        "But moments later she resumes her chest's teasing movements, forcing a soft moan from your lips as she gently rolls her slimy tits around your length, occasionally stopping to squeeze them together before continuing her rolling motions all over again, massaging every inch of your cock while the blobby cushion underneath you keeps your body in a state of tensionless bliss with its relaxing massage.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Smile Blush",
+        "Speaks",
+        "I'll let you go once I've squeezed out all your cum, so do your best to give me lots, okay?♪",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base Blush",
+        "You can't even begin to think of responding to her as slow, tender moments send shivers of pleasure racing through you that leaves your head so dazed and empty that you're reduced to simply moaning and shivering in her grasp, simply enjoying the feelings of ecstasy she's gently giving you.",
+        "The slime underneath your waist suddenly hardens and pushes your hips upwards at the same time as she suddenly squeezes her tits tightly together, forcing you to involuntarily thrust into her gelatinous breasts as an immensely lewd squishing noise fills the air, and you shudder as your entire body feels like it's tingling from the imminent orgasmic that's building in your groin.",
+        "PlayerOrgasm",
+        "1",
+        "The sweet pressure keeps building the longer she holds you there in between her gentle squeezing and full-body massage until you're sent moaning into another blissful orgasm as she gives your manhood a slow, wringing squeeze, happily giggling as you coat her chest with another thick load of semen.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Excited Blush",
+        "Speaks",
+        "Yay!♪ Mmmmm...♪ You keep covering me with so much.♪",
+        "Your cum slowly seeps into her gooey body only to be dissolved once more as you're left gasping while partially submerged into her slime, and you let out a whimper of pleasure as one of her hands reaches down and grabs your twitching balls, gently massaging them while you're still achingly sensitive from the aftermath of your climax.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base Blush",
+        "Speaks",
+        "I bet you still have lots more in here, don't you?♪ Ahhhh,♪ I don't ever want to stop eating your cum!♪",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Happy",
+        "She gives your aching balls one last playful squeeze before she grabs ahold of her breasts once more and begins to roll them around your twitching cock all over again with a cheerful giggle.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base Blush",
+        "You moan blissfully as you feel yourself sink even deeper into her gooey grasp, feeling far too relaxed and overstimulated to even think straight anymore as she relentlessly works to milk your achingly sensitive manhood completely dry.",
+        "As your body sinks further into hers, more and more of your skin is covered by her teasing, massaging slime, forcing all the tension out of you as your shaft powerfully throbs from within the blissful confines of her squeezing chest.",
+        "You let out a shivering gasp of ecstasy as she brings her head down and traps the head of your cock in her mouth, letting her tongue dance and lick at it while she continues to titfuck your manhood, sending overwhelmingly powerful jolts of electric pleasure coursing through your groin as you feel like your entire body is completely loose, weak, and ready to give her every last drop of your cum.",
+        "Completely trapped in this ooey gooey heaven, you can't even think of resisting anymore as your thoughts completely melt away while an oncoming orgasm begins to wash over you, making your body tense imperceptibly as you let out a small moan.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Excited Blush",
+        "The slime seems to notice as her eyes glimmer with excitement, and she redoubles her efforts to make you cum, pulling your cock even further into her mouth as her chest begins to squeeze your shaft harder than ever and utterly overwhelming your blissfully empty mind with pleasure.",
+        "PlayerOrgasm",
+        "1",
+        "You cry out in incoherent ecstasy as your semen powerfully erupts from your shaft into her waiting mouth, spurting out load after load into her body as she continues to suck and squeeze your spasming cock even while you cum, forcing your orgasm to extend as more and more pleasure wracks your completely relaxed body.",
+        "PlayerOrgasm",
+        "1",
+        "More and more of your seed is powerfully milked out of you as she eagerly absorbs each drop you give her, dissolving it within her body even as she continues to happily accept every last bit of your cum, and it's only when your aching balls feel completely and utterly drained that your orgasm finally ends, leaving your shaft twitching and throbbing between her breasts as she pulls her mouth off of your cock with a lewd, slimy pop.",
+        "Speaks",
+        "Woowwww!♪♪♪ You came {i}soooooo{/i} much! Come on, let's do that again!♪",
+        "PlayerOrgasm",
+        "1",
+        "She roughly pumps your overused shaft with her gooey tits and leans over to lap at the head of your cock even as her body is still absorbing the semen you gave her, forcing you to let out a cry of overstimulated pleasure as she tries to force another load out of you.",
+        "But no matter how hard she works, your balls are so drained that all she manages to do is send you into a mind-numbing dry orgasm with her movements, making you shiver in ecstasy as you faintly realize that only your head and your cock are still sticking out of her gooey body, feeling blissfully relaxed in her grasp as your entire body is being delightfully massaged by her slime...",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base",
+        "Speaks",
+        "...Awwwww... You're all out of cum, aren't you...",
+        "She gives you a small pout for a brief moment before she finally releases your shaft from her breasts, but you're forced to let out a low moan as it sinks into her body as well, making you shiver as it starts to gently massage your manhood as well as she leans in close towards you, wrapping her arms around your body through her slime as her smiling face rests a few inches from your own.",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Happy",
+        "Speaks",
+        "That was fun.♪ Thanks for the meal!♪",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Smile",
+        "She leans in and gives you a kiss on the lips before giggling happily and snuggling up next to you, tightening her arms around you as you feel a wave of relaxing exhaustion wash over your tensionless body...",
+        "Speaks",
+        "I'll let you rest in my slime for a little while longer, ‘kay?♪ Butttt... If you're still here when I wake up, I'm going to milk you dry all over again, alright?♪ So be sure to fill your balls up for me, and I'll get to have another great meal.♪",
+        "She cuddles closer towards you, resting her head in the hollow of your neck as her eyes drift closed while your entire body continues to be caressed and massaged in her gooey grasp, leaving you to sigh as the blissful afterglow from your several powerful orgasms fills you, making your eyelids droop and eventually close as you're gently sent into a deep, peaceful sleep...",
+        "ChangeSensitivity",
+        "Sex",
+        "5"
+      ],
+      "picture": ""
+    },
+    {
+      "NameOfScene": "Ooey Gooey Love Making",
+      "move": "",
+      "stance": "",
+      "includes": ["Blue Slime"],
+      "theScene": [
+        "ChangeImageLayer",
+        "ImageSetDontCarryOver",
+        "1",
+        "Normal",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Base",
+        "The blue slime looks down at you as you pant on the ground, tilting her head to one side as her eyes twinkle with surprise for a brief moment.",
+        "Speaks",
+        "Ehhhhhh? You're tired already?",
+        "ChangeImageLayer",
+        "Expression",
+        "1",
+        "Happy",
+        "With a huge smile, she suddenly surges forward and completely envelops every inch of your body below your neck with her slimy ooze, and you're far too exhausted to even try to struggle out of her grasp any longer.",
+        "Speaks",
+        "Don't worry, I'm sure you have at least a {i}little{/i} cum left in your balls!♪",
+        "ChangeImageLayer",
+        "ImageSetDontCarryOver",
+        "1",
+        "Sex",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "She 'straddles' your waist and presses herself downward, making you moan as her viscous slime begins to slowly swirl around your rigid shaft.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "The sensations start to become more intense as a gentle, yet intensely pleasant suction is applied to your cock, rolling from the bottom all the way to your tip and starting all over again as her body almost seems to be trying to milk the semen from your balls.",
+        "You can't even bring yourself to try resist as the slime coating you begins to slowly vibrate, caressing and massaging you all over as it effortlessly teases out every ounce of tension you have within you as the slime eagerly stares into your eyes.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Dominant",
+        "Speaks",
+        "Isn't this {i}suuuuper{/i} relaxing? Ooooohhh!♪ I just had a great idea! I should play with your butt so you spurt out {i}all{/i} of your cum for me!♪",
+        "Her words pull you out of the blissful trance you can feel yourself falling into for a brief moment as you return her gaze while another small moan escapes your lips...",
+        "Menu",
+        "'Please don't tease my butt.'",
+        "'Please do...♥'",
+        "Say nothing.",
+        "EndLoop"
+      ],
+      "picture": ""
+    },
+    {
+      "NameOfScene": "'Please do...♥'",
+      "move": "",
+      "stance": "HHHH",
+      "includes": [""],
+      "theScene": [
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "The slime giggles at your eager voice as she happily smiles down at you, making you shiver as the massaging vibrations surrounding your body become ever so slightly more intense.",
+        "Speaks",
+        "Yay!♪ Don't worry, this is going to make you feel {i}super{/i} good!♪",
+        "JumpToScene",
+        "..."
+      ],
+      "picture": ""
+    },
+    {
+      "NameOfScene": "Say nothing.",
+      "move": "",
+      "stance": "HHHH",
+      "includes": [""],
+      "theScene": [
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "As you simply just sit in her slimy grasp, you can't bring yourself to say anything as your momentary lucidity fades away, leaving you at her mercy as she giggles happily at you...",
+        "Speaks",
+        "Oh?♪ You don't have any complaints?♪ Yay!♪",
+        "JumpToScene",
+        "..."
+      ],
+      "picture": ""
+    },
+    {
+      "NameOfScene": "'Please don't tease my butt.'",
+      "move": "",
+      "stance": "out of bounds",
+      "includes": [""],
+      "theScene": [
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Seductive",
+        "She looks disappointed for a brief moment before her expression returns to its typical cheery nature.",
+        "Speaks",
+        "Aww... It was going to feel super good, too... I guess I'll just have to try something else instead!♪",
+        "You shiver as you can feel the slime around your shaft begin to harden, slowly transforming into a gelatinous onahole that perfectly fits around your rigid cock.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "Speaks",
+        "There!♪ I've always wanted to try this, but it takes too much concentration to do while fighting. Buuuut...♪ Now that you're all worn out, I'm going to make you feel amazing!♪",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "She quickly puts her custom-made onahole to work, stroking your shaft with her every movement as she wetly bounces on your almost painfully erect manhood with an unbridled amount of cheer.",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "Her firm, gooey onahole pussy is lined with teasing nubs that delightfully rub against your shaft as she moves on top of what feels like a series of tiny gooey tongues that lick and tease the head of your cock, making you shiver in bliss as she sends a completely unnatural, yet intensely pleasurable sensation racing through your manhood.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Pleasured",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "But despite the ever growing tension building in your groin, you can't help but relax as you feel the rest of your body start to loosen up and go slack as the slime covering you continues to massage and caress every inch of you, forcing every muscle in your body to unclench as you let out a long, happy sigh in her embrace.",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "Warm relaxation spreads throughout you as you let yourself sink deeper and deeper into her body, leaving you at her mercy as the delightfully unique sensations of her pussy as she continues to cheerfully bounce on your blissfully throbbing manhood.",
+        "PlayerOrgasm",
+        "1",
+        "PlayMotionEffect",
+        "Crash",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "Base",
+        "PlayVisualEffect",
+        "DoublePulse",
+        "white.png",
+        "When you finally begin to feel yourself go over the edge, you can't bring yourself to make any of your muscles tense up, simply letting out an orgasmic moan as you spurt out a huge load of cum into the slime's viscous form, forcing a delighted cry from her lips as she doesn't slow down her movements at all.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "Speaks",
+        "Oh, wow!♪ You're painting my insides white!♪ I didn't think you had this much left in you!♪",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Dominant",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "None",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "You idly watch her absorb your semen as the blissful sensations of her nubbed, licking pussy relentlessly tease your cock, making you moan as you begin to feel another climax welling up in your groin, but unable to do so much as twitch as your completely relaxed body simply bathes in the pleasure she's giving you.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "The slime happily looks down at you as she giggles before slamming her hips down harder than ever on your cock, forcing the teasing tongues at the end of her onahole pussy to lick and lap at your sensitive tip more intensely than ever while the nubs continue to rub against your shaft, forcing your slack muscles to twitch as climactic bliss suddenly electrifies your body.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Pleasured",
+        "Speaks",
+        "So I know you've got more cum to give me, right?♪ Don't hold back!♪",
+        "PlayerOrgasm",
+        "1",
+        "PlayMotionEffect",
+        "Crash",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "Base",
+        "PlayVisualEffect",
+        "DoublePulse",
+        "white.png",
+        "With a happy giggle, the slime forces you into another overwhelming orgasm as her pussy suddenly twists around your manhood, making you moan in bliss as your manhood spurts out thick loads of cum into her waiting body.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Shy",
+        "Speaks",
+        "W-Wow, you really {i}are{/i} painting my insides white! Maybe you'll turn me into a white slime!",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "She lewdly smiles down at you as she finally stops her movements to simply let you shudder in the throes of ecstasy, leaving you panting in her slime as your climax slowly dwindles away, simply basking in your afterglow while your body continues to be delightfully massaged all over while you feel completely and utterly spent.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Seductive",
+        "Speaks",
+        "Ahh...♪ You're so tasty...♪",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "None",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "You gasp as she begins to bounce on your shaft a few more times, making you weakly writhe from the intense stimulation after your orgasms, but you feel as if there's not a single drop of semen left in your body as the slime slowly stops before letting out a sigh.",
+        "Speaks",
+        "But it doesn't look like you've got anything left in you... I guess I should let you go then...",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "But just as she starts to slowly pull her slime off of you, she stops as her eyes suddenly light up in realization, and she looks down at you with a small, surprisingly devious smile.",
+        "Speaks",
+        "...But I should probably keep you company until you recover, right?♪",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "You're left in too much of a pleasured daze to protest at all as she pulls you back into her body and wraps her arms around you through her goo, nestling her head into the nape of your neck as her the gentle vibrations of slime start up once more, easing out the small amount of tension that had built up while she was pulling away.",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "PlayVisualEffect2",
+        "SuddenHaze",
+        "darkHaze.png",
+        "The warm afterglow of your orgasms combined with the exhaustion washing over you mix with her gentle massage as you feel yourself quickly drifting off to sleep, but just before you fully slip into unconsciousness, you hear the slime say one last thing...",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "Speaks",
+        "...And if you just stay here in my arms, I'm sure you'll have plenty of semen saved up for me when you wake up again...♪",
+        "PlayBlackOut",
+        "EndVisualEffect2",
+        "ChangeSensitivity",
+        "Breasts",
+        "2",
+        "ChangeSensitivity",
+        "Sex",
+        "2",
+        "ChangeSensitivity",
+        "Ass",
+        "2"
+      ],
+      "picture": ""
+    },
+    {
+      "NameOfScene": "...",
+      "move": "",
+      "stance": "nope",
+      "includes": [""],
+      "theScene": [
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "She smiles excitedly as a slimy tendril reaches into your ass and begins to gently press against your prostate, making you yelp at the strange sensation while your cock throbs inside her gooey body.",
+        "Speaks",
+        "Time to start {i}really{/i} pushing out all of your semen...♪",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "The invading slime teasingly assaults your prostate in a series of rhythmic tapping patterns, forcing your hips to involuntarily buck upwards as intense jolts of pleasure race through you with each of her movements, much to her delight as she watches your face with a smile.",
+        "PlayerOrgasm",
+        "1",
+        "PlayMotionEffect",
+        "Crash",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "Base",
+        "PlayVisualEffect",
+        "DoublePulse",
+        "white.png",
+        "Before you can even attempt to resist the powerful sensations her anal teasing is giving you, the slime around your manhood suddenly tightly squeezes down on you as she gives your prostate a firm press, completely overriding your senses as you explosively ejaculate a thick load of cum into her viscous body.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "Speaks",
+        "Ehehe!♪ I knew you had more in you!♪ Ahh,♥ it's so thick and tasty!♪",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "None",
+        "You're given a moment to catch your breath as she stops everything she's doing to dissolve the large globs of cum inside her body, slowly watching it melt away before she looks back at you with an almost innocent eagerness.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "Speaks",
+        "Don't worry. I'll let you go once I've taken {i}all{/i} of your semen!♥",
+        "Within moments, you're forced to gasp in pleasure as she resumes her gentle tapping on your sensitive prostate while her slime begins to swirl and squeeze around your twitching shaft more intensely than before, completely drowning you in the melting pleasure radiating from your groin as her face breaks out into a huge smile.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "Speaks",
+        "Oooh!♪ I just had a great idea to make you cum even harder!♪  This takes a bit of effort to make, but I know that you'll enjoy it!♪",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Dominant",
+        "You shiver as you can feel the slime around your shaft begin to harden, slowly transforming into a gelatinous onahole that perfectly fits around your rigid cock.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "Speaks",
+        "There!♪ I've always wanted to try this, but it takes too much concentration to do while fighting. Buuuut...♪ Now that you're all worn out, I'm going to make you feel amazing!♪",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "She quickly puts her custom-made onahole to work, stroking your shaft with her every movement as she wetly bounces on your almost painfully erect manhood with an unbridled amount of cheer even as the slime in your rear keeps teasing your love button.",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "Her firm, gooey onahole pussy is lined with teasing nubs that delightfully rub against your shaft as she moves on top of what feels like a series of tiny gooey tongues that lick and tease the head of your cock, making you shiver in bliss as she sends a completely unnatural, yet intensely pleasurable sensation racing through your manhood.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Pleasured",
+        "But despite the ever growing tension building in your groin, you can't help but relax as you feel the rest of your body start to loosen up and go slack as the slime covering you continues to massage and caress every inch of you, forcing every muscle in your body to unclench as you let out a long, happy sigh in her embrace.",
+        "PlayerOrgasm",
+        "1",
+        "PlayMotionEffect",
+        "Crash",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "Base",
+        "PlayVisualEffect",
+        "DoublePulse",
+        "white.png",
+        "Warm relaxation spreads throughout you as you let yourself sink deeper and deeper into her body even as every tap of the slimy tendril in your rear against your prostate causes you to shoot out small loads of cum with every firm press, leaving you completely at her mercy from the delightfully unique sensations of her pussy and her anal teasing as she continues to cheerfully bounce on your blissfully throbbing manhood.",
+        "PlayerOrgasm",
+        "1",
+        "PlayMotionEffect",
+        "Crash",
+        "PlayVisualEffect",
+        "DoublePulse",
+        "white.png",
+        "When you finally begin to feel yourself go over the edge, you can't bring yourself to make any of your muscles tense up, simply letting out an orgasmic moan as you spurt out a huge load of cum into the slime's viscous form, forcing a delighted cry from her lips as she doesn't slow down her movements at all.",
+        "Speaks",
+        "Oh, wow!♪ You're painting my insides white!♪ I didn't think you had this much left in you!♪.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "None",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "You idly watch her absorb your semen as she continues to constantly press against your prostate, making your cock spasm in bliss as the sensations from her teasing combine with the feelings of her nubbed, licking pussy, making you moan in ecstasy as you begin to feel another climax welling up in your groin, but unable to do so much as twitch as your completely relaxed body simply bathes in the pleasure she's giving you.",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "The slime happily looks down at you as she giggles before slamming her hips down harder than ever on your cock while the slimy tendril in your rear practically {i}assaults{/i} your prostate, sending hot pulses of ecstasy radiating through your entire waist.",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "All the while the teasing tongues at the end of her onahole pussy to lick and lap at your sensitive tip more intensely than ever while the nubs continue to rub against your shaft as your manhood spasms in pleasure, forcing your slack muscles to twitch as climactic bliss suddenly electrifies your body.",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "Your body involuntarily thrusts its hips up into her perfectly crafted pussy, slamming your cockhead right into her teasing gooey tongues, and climactic bliss electrifies your entire body.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "Speaks",
+        "So I know you've got more cum to give me, right?♪ Don't hold back!♪",
+        "PlayerOrgasm",
+        "1",
+        "PlayMotionEffect",
+        "Crash",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "Base",
+        "PlayVisualEffect",
+        "DoublePulse",
+        "white.png",
+        "With a happy giggle, the slime forces you into another overwhelming orgasm as her pussy suddenly twists around your manhood while she gives your prostate one final tap, making you moan in bliss as your manhood spurts out thick loads of cum into her waiting body.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Pleasured",
+        "Speaks",
+        "Oh, wow!♪ You're painting my insides white!♪ I didn't think you had this much left in you!♪",
+        "She lewdly smiles down at you as she finally stops her movements to simply let you shudder in the throes of ecstasy, leaving you panting in her slime as your climax slowly dwindles away, simply basking in your afterglow as your body continues to be delightfully massaged all over while you feel completely and utterly spent.",
+        "ChangeImageLayer",
+        "SlimeBodyCum",
+        "1",
+        "None",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "Speaks",
+        "Ahh...♪ You're so tasty...♪",
+        "PlayMotionEffect",
+        "ScreenBounce",
+        "You gasp as she begins to bounce on your shaft a few more times while giving your prostate a handful of experimental taps, making you weakly writhe from the intense stimulation after your orgasms, but you feel as if there's not a single drop of semen left in your body as the slime slowly stops before letting out a sigh.",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Seductive",
+        "Speaks",
+        "But it doesn't look like you've got anything left in you... I guess I should let you go then...",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "But just as she starts to slowly pull her slime off of you, she stops as her eyes suddenly light up in realization, and she looks down at you with a small, surprisingly devious smile.",
+        "Speaks",
+        "...But I should probably keep you company until you recover, right?♪",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Happy",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "You're left in too much of a pleasured daze to protest at all as she pulls you back into her body and wraps her arms around you through her goo, nestling her head into the nape of your neck as her the gentle vibrations of slime start up once more, easing out the small amount of tension that had built up while she was pulling away as the slimy tendril that was relentlessly teasing your prostate finally slips out of your rear.",
+        "PlayMotionEffect",
+        "ScreenSway",
+        "PlayVisualEffect2",
+        "SuddenHaze",
+        "darkHaze.png",
+        "The warm afterglow of your orgasms combined with the exhaustion washing over you mix with her gentle massage as you feel yourself quickly drifting off to sleep, but just before you fully slip into unconsciousness, you hear the slime say one last thing...",
+        "ChangeImageLayer",
+        "SExpression",
+        "1",
+        "Excited",
+        "Speaks",
+        "...And if you just stay here in my arms, I'm sure you'll have plenty of semen saved up for me when you wake up again...♪",
+        "PlayBlackOut",
+        "ChangeSensitivity",
+        "Breasts",
+        "2",
+        "ChangeSensitivity",
+        "Sex",
+        "2",
+        "ChangeSensitivity",
+        "Ass",
+        "2"
+      ],
+      "picture": ""
+    }
+  ],
+  "combatDialogue": [
+    {
+      "lineTrigger": "StartOfCombat",
+      "move": "",
+      "theText": ["|f|CallCombatEventAndScene|/|SlimeTestEvent|/|Intro|n|"]
+    },
+
+    {
+      "lineTrigger": "HitWith",
+      "move": "Tit Fucking",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Wow you must really like my boobs!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Oh do you want to feed me you cum? I won't mind.♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Ehehe, you're making my tits jiggle a lot.'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Spank",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Oh? Wow! look at my butt jiggle!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ehehe, my whole body is rippling from that!'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Whip",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base|n|Her whole body jiggles in response to the whipping, and she giggles like you tickled her.",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Ehehe, my whole body is rippling from that!'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Demon Layer",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Bashful|n|'W-Woah...♥ My whole body is rippling and jiggling from that!♥ It feels really nice...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n|'This feels so weird...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Bashful|n|'Ahhhh...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n|'Ehehe...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n|Her whole body jiggles in response to the strike of the Demon Layer, and she lets out a lusty moan as a wave of holy magic washes over her."
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Holy Headpat",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Hehe, it tickles.'",
+        "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'This feels nice...♪ I should make you feel nice too.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|The slime eagerly accepts your pats, but seems completely unaffected, and intent on lewding you."
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Lewd Bottle", "Cloying Mist"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Ah? Free food!♪ Ehhh... I'm starting to feel weird...'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'That stuff tastes so sweet!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Mmmm... Now I really want some semen!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Placebo Pheromone"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|'Eh? Really? Hmmm, I guess that means you taste really good.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Hey, I think you're right!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Mmmm... Now I really want some semen!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Arouse", "Arousara", "Arousero"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'OOHHHH!♥ Ahhh? What happened? It felt really good!",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe♥ I can't think straight all of a sudden...'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahhh? MMMM?!♥ D-Did you do that, h-human?'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Electrify",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'AHHH! I-I'm gonna melt!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I-I can feel it everywhere!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|She's only able to let out incoherent noises of happiness as she trembles in bliss..."
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Enfeeble", "Sensitize"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'...I feel different? It's neat!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Did everything suddenly get wobblier?'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Disarming Appeal"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'Aw, you're so helpless and cute!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You sure you don't want me to milk you dry right away?'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Kay' I'll go slow for a bit, but you better spurt out a lot for me to eat.♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": [
+        "Seduce",
+        "Enamor",
+        "Smoldering Seduction",
+        "Smoldering Flaunt",
+        "Mass Seduction"
+      ],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Really?!♥ Okay! Then let's do it right now.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Well, I'll eat up your every drop of cum.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'|n||f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Wait, I'm always gooey.'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Hmmmm, we should just cuddle while I milk your cum out then.♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Ear Tease", "Massaging Seduction"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe, that tickles! Hmmm, and feel really good.'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'|n||f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Wait, I'm always gooey.'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'Hmmm, I bet my slime would feel good doing that to you...'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Finger",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'That feels really nice!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahhhh, so good!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh, you're so warm...'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Dildo",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Ah? Does it have semen in it?'",
+        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Can I eat it? Ahhhh, but it feels really nice...'",
+        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'Mmmm, that's a weird sword... I like it!'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Charm", "Charm Wave"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Uhm ah... Will you stay with me forever?♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ehhh?! I-Is this what falling in love feels like?!'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Make Out",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|She eagerly returns your kiss, her slimy body quickly clinging to you.",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Oh wow, we're getting all romantic...'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Are you going to feed me lots of saliva?'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Kiss",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Oh wow, you taste sweet...'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Can we kiss more?'",
+        "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|'Come on, lets kiss even more!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": [
+        "Deep Kiss",
+        "Lovingly Rough Kiss",
+        "Skillfully Passionate Kiss",
+        "Misty Kiss",
+        "Sensually Seductive Kiss"
+      ],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Ahh.. Your saliva tastes good...'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Do I taste good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|She traps your tongue in her gooey mouth, pulling you deeper into her kiss as she lustily stares into your eyes."
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Grope Ass",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Heheh,♪ that feels nice!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|Your hand accidentally sinks into her butt, making her lightly shiver in pleasure.",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're sending little ripples through my body...♥'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Squeeze Ass", "Massage Ass", "Fondle Ass"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ah...♥ My butt feels like it's going to melt away.♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Mmmm!♥ Ehehe!♪ Keep going!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Breast Caress",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Heheh,♪ that feels nice!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|Your hand accidentally sinks into her chest, making her lightly shiver in pleasure.",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're sending little ripples through my body...♥'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Suckle",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Do I taste good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Eh? Are you trying to drink me? I-It feels weird...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ahhh...♥ Uhm, don't forget to breathe.♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Breast Massage", "Breast Knead", "Breast Fondle"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ah...♥ My breasts feel like they're going to melt away.♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Mmmm!♥ Ehehe!♪ Keep going!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♪'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Penetrate",
+      "theText": [
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Yay♥, now feed me lots of cum!'",
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|Her slime sticks to you rather quickly."
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Thrust", "Channeling Thrust"],
+      "theText": [
+        "|f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ehehe♥ This feels super good!'",
+        "|f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Pound", "Multi Thrust", "Empowered Thrust", "Carrying Fuck"],
+      "theText": [
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahh?! I feel like I'm gonna melt!♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'I'm feeling it everywhere!♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'Ohh!♥ T-This is bad!♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'Ehehe,♥ I can't think straight!♥'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": ["Tantric Thrust", "Passionate Lovemaking"],
+      "theText": [
+        "|f|ChangeImageLayer|/|SExpression|/|Happy|n|'I'm feeling it everywhere.♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWith",
+      "move": "Anal Penetration",
+      "theText": [
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Huh? Why'd you put it in like that?'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWithA",
+      "move": "Thrust",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ehehe,♥ This feels super good!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWithA",
+      "move": [
+        "Pound",
+        "Multi Thrust",
+        "Empowered Thrust",
+        "Carrying Fuck",
+        "Anal Piston"
+      ],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahh?! I feel like I'm gonna melt!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I'm feeling it everywhere!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ohh!♥ T-This is bad!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe,♥ I can't think straight!♥'"
+      ]
+    },
+    {
+      "lineTrigger": "HitWithA",
+      "move": ["Tantric Thrust", "Passionate Lovemaking"],
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I'm feeling it everywhere!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
+      ]
+    },
+
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Gooey Caress",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'I'm gonna make a mess out of you!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Base|n|Small bits of goo rest on your body where she touches you, making your skin lightly tingle as it slides off of you.",
+        "|f|ChangeImageLayer|/|Expression|/|Base|n|'Feels weird, right?♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Ahahah!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Deep Kiss",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ahh.. Your saliva tastes good...'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Do I taste good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|She traps your tongue in her gooey mouth, pulling you deeper into her kiss as she lustily stares into your eyes."
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Gooey Grapple",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|She jubilantly bounces back and forth, then ",
+        "|f|ChangeImageLayer|/|Expression|/|Smile|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'I'm gonna get you!",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ahahah!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Slime Cling",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm gonna cover you from head to toe!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|'Don't struggle, it's going to feel amazing!'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Slimy Insertion",
+      "theText": [
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahhh, you're soooo warm!♪'",
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|'I'm gonna milk out everything you've got!♪'",
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|'This is going to be so much {i}fun{/i}!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Slimy Re-Insertion",
+      "theText": [
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahhh, you're soooo warm!♪'",
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|'I'm gonna milk out everything you've got!♪'",
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Sex|n||f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|'I'm not letting you go that easily!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Twisting Gooey Sex",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Ahahaha! This is fun!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|PlayMotionEffect|/|ScreenBounce|n|'Doesn't this feel super good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|PlayMotionEffect|/|ScreenBounce|n|'Ah! Your cock's twitching so much!'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n||f|PlayMotionEffect|/|ScreenBounce|n|She moves her core down and grinds it against the tip of your cock."
+      ]
+    },
+    {
+      "lineTrigger": "usesMoveA",
+      "move": "Twisting Gooey Sex",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'Anywhere you put that dick, I can milk it!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n||f|PlayMotionEffect|/|ScreenBounce|n|'Ahahaha! This is fun!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|PlayMotionEffect|/|ScreenBounce|n|'Doesn't this feel super good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n||f|PlayMotionEffect|/|ScreenBounce|n|She moves her core down and grinds it against the tip of your cock."
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Slime Engulf",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Now just relax! I'm gonna milk you for days!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'It feels soooo good to have you inside of me!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Don't struggle, and just let me milk you dry!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Full Body Slime Massage",
+      "theText": [
+        "|f|ChangeImageLayer|/|SExpression|/|Dominant|n|'See, I told you it would feel super good!♪'",
+        "|f|ChangeImageLayer|/|SExpression|/|Happy|n||f|PlayMotionEffect|/|ScreenBounce|n|'I won't ever let you go now!",
+        "|f|ChangeImageLayer|/|SExpression|/|Dominant|n||f|PlayMotionEffect|/|ScreenBounce|n|'I bet you're already hooked on this, right?'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|'I'll milk you like this until you pass out, and then just keep going!♪"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Gooey Titfucking",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'My boobs are always ready for this!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I'm gonna milk out everything you've got!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|'I've got you now!♪",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Hahaha!♪ I can feel your dick throbbing between my breasts!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Slimy Cushion",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Let's get you nice and cozy.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I won't need my legs for this.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|'Just relax, okay?♪ I'm going to make you feel super good...♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Gooey Titfuck",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'This is so fun!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Does it feel super good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Your cock's sooo warm! It's amazing!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Just lay back and let me milk all the tasty cum from of your dick.♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|'I can make my boobs a little bigger if you want.♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Jellowy Squeeze",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Hehehe!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Squuueeeezzeeeee!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I'm going to milk you dry!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Come on, just relaxxxx.♪ Spurt that tasty cum for me!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|'Your dick is so hot between my boobs.♪'"
+      ]
+    },
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Accidental Slime Fuck",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Uhm... Whoopsie!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|'Ehehe, I-I meant to do that!♪ To change it up!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Eeek!♥ A-aha... That was just as surprising for me.♪'"
+      ]
+    },
+
+    {
+      "lineTrigger": "UsesMove",
+      "move": "Slimy Escape",
+      "theText": [
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Normal|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ah... Um... Hold on, I need to get you all comfortable again...'",
+        "|f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Normal|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'W-Was I not comfy enough? ...I'll just try again!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "LowHealth",
+      "move": "",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'I-I think I'm going to melt away...'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ahhhh? I feel weird...'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|Ehhh? I-Is this what cumming feels like...?"
+      ]
+    },
+    {
+      "lineTrigger": "PlayerLowHealth",
+      "move": "",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'It's twitching♪! It's twitching♪!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hurry, hurry! Gimme your semen already!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Spurt out lots, okay?♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hey! Paint my insides white!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "OnPlayerOrgasm",
+      "move": "Titfuck",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|The slime giggles as she strokes your twitching cock with her gooey breasts faster than ever before, forcing you to moan and squirm in her slimy grasp as pleasure begins to override your senses.|n|With a few final ecstasy inducing strokes of her gelatinous tits, you cry out in pleasure as you're pushed over the edge, spurting thick ropes of cum all over her chest and face as she happily smiles down at your cock.|n|As you gasp in the afterglow of your orgasm, you watch your cum seep into her body and dissolve away into nothingness as she temptingly squeezes her chest around your cock. ‘You have more cum left for me, right?♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|As your cock throbs with unbearable pleasure from the slime's gooey titfucking, she smiles up at you as she tightly squeezes her tits together with a giggle, easily pushing you over the edge of orgasm from the intense sensation!|n|You let out an incoherent moan of bliss as your cock spurts thick ropes of cum all over the gooey girl's body, shuddering as she continues to tease and stimulate your manhood with her chest as you cum until you're completely spent, left gasping as she absorbs every last drop you gave her with a cheery smile. ‘Mmmm... Your cum's so tasty...♥'"
+      ]
+    },
+    {
+      "lineTrigger": "OnPlayerOrgasm",
+      "move": "Anal",
+      "theText": [
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|Her slime twists around your cock, pulling with an intense suction that sends constant jolts of ecstasy racing through your overstimulated shaft.|n|'Cum!♥ Cum!♥ Cum!♥ Cum!♥'|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|ChangeImageLayer|/|SlimeBodyCum|/|Base|n||f|PlayMotionEffect|/|Crash|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|With her words excitedly spurring you, on you can no longer hold out as you give her what she wants, spurting ropes of cum into her body, which rapidly gets absorbed as she continues to ride your manhood.{PlayerOrgasmLine}|f|ChangeImageLayer|/|SlimeBodyCum|/|None|n||c|",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|ChangeImageLayer|/|SlimeBodyCum|/|Base|n||f|PlayMotionEffect|/|Crash|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|The goo around your aching cock spins faster and faster, and the strange, pleasant sensations make you spasm and uncontrollably unload semen into her as you're easily pushed over the edge of orgasm.|n|'I hope we never have to stop!♪'|n|Her body dissolves your cum until nothing remains while she giggles and gives you a short break before resuming her slimy teasing.{PlayerOrgasmLine}|f|ChangeImageLayer|/|SlimeBodyCum|/|None|n||c|",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|The slime girl excitedly bounces on your rigid shaft, and her gooey ass impossibly squeezes your cock every time your hips wetly meet, making you moan as your cock throbs with aching need, which the slime happily bounces on your manhood even faster as she eagerly pushes you closer to climax.|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|ChangeImageLayer|/|SlimeBodyCum|/|Base|n||f|PlayMotionEffect|/|Crash|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|You cry out in ecstasy as orgasmic pleasure electrifies your body, and your cock begins to spurt thick ropes of cum into her waiting body, stopping her excited bouncing as she lets out a sultry giggle before gently grinding her hips into while yours while she quickly dissolves your semen.{PlayerOrgasmLine}|f|ChangeImageLayer|/|SlimeBodyCum|/|None|n||c|"
+      ]
+    },
+    {
+      "lineTrigger": "OnPlayerOrgasm",
+      "move": "Sex",
+      "theText": [
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|Her slime twists around your cock, pulling with an intense suction that sends constant jolts of ecstasy racing through your overstimulated shaft.|n|'Cum!♥ Cum!♥ Cum!♥ Cum!♥'|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|ChangeImageLayer|/|SlimeBodyCum|/|Base|n||f|PlayMotionEffect|/|Crash|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|With her words excitedly spurring you, on you can no longer hold out as you give her what she wants, spurting ropes of cum into her body, which rapidly gets absorbed as she continues to ride your manhood.{PlayerOrgasmLine}|f|ChangeImageLayer|/|SlimeBodyCum|/|None|n||c|",
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|ChangeImageLayer|/|SlimeBodyCum|/|Base|n||f|PlayMotionEffect|/|Crash|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|The goo around your aching cock spins faster and faster, and the strange, pleasant sensations make you spasm and uncontrollably unload semen into her as you're easily pushed over the edge of orgasm.|n|'I hope we never have to stop!♪'|n|Her body dissolves your cum until nothing remains while she giggles and gives you a short break before resuming her slimy teasing.{PlayerOrgasmLine}|f|ChangeImageLayer|/|SlimeBodyCum|/|None|n||c|",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n||f|PlayMotionEffect|/|ScreenBounce|n|The slime girl excitedly bounces on your rigid shaft, and her gooey pussy impossibly squeezes your cock every time your hips wetly meet, making you moan as your cock throbs with aching need, which the slime happily bounces on your manhood even faster as she eagerly pushes you closer to climax.|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n||f|ChangeImageLayer|/|SlimeBodyCum|/|Base|n||f|PlayMotionEffect|/|Crash|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|You cry out in ecstasy as orgasmic pleasure electrifies your body, and your cock begins to spurt thick ropes of cum into her waiting body, stopping her excited bouncing as she lets out a sultry giggle before gently grinding her hips into while yours while she quickly dissolves your semen.{PlayerOrgasmLine}|f|ChangeImageLayer|/|SlimeBodyCum|/|None|n||c|"
+      ]
+    },
+    {
+      "lineTrigger": "OnPlayerOrgasm",
+      "move": "",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Happy|n|Unable to hold back any longer, you moan as you orgasm, making the slime let out squeal with joy as she tries to catch as much of your seed as she can with her body, quickly dissolving it with a happy smile. 'You taste so good! More please!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n|With a groan, you spray the gooey girl with semen as pleasure overwhelms you, and she happily absorbs every drop you give her before dissolving it into her body. 'Ahhh♪ You can cum more, right?'"
+      ]
+    },
+    {
+      "lineTrigger": "OnOrgasm",
+      "move": "",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Orgasm|n|'Ahh♥ I'm melting away!'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Orgasm|n|'Everything feels so good!♪'"
+      ]
+    },
+    {
+      "lineTrigger": "OnSurrender",
+      "move": "",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Eh? I can do what I want? Okay!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'You're giving up? Yay!♪"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Titfuck",
+      "theText": [
+        "{ThePlayerName} tries to pull away from {AttackerName}'s gooey tits..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Titfuck",
+      "theText": [
+        "But her jellowy breasts firmly cling to your manhood as she tightly squeezes her chest around it, keeping you stuck to her!",
+        "But her slimy body tightly restrains you, keeping you firmly in place despite your resistance!",
+        "But the feel of her jellowy breasts drains the fight out of you as they wetly squeeze and stroke your shaft.",
+        "But her sticky goo keeps you locked in place despite your best efforts to escape them while she teases your cock with her slimy breasts."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Titfuck",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Hehehe!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I'm not gonna let you go!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I'm going to milk out all your cum if you don't get free!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Huh? Why would you want to stop?'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Titfuck",
+      "theText": ["And manage to get free of {AttackerName}'s slimy tits!"]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Titfuck",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Awww, come on!♪ Just let me play with your dick a bit longer!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Base|n|'Oh, did you want to stick it in me instead?♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Heyyy, get back here!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Eh? You don't want to feel super good?'",
+        ""
+      ]
+    },
+
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Anal",
+      "theText": [
+        "{ThePlayerName} tries to pull out of {AttackerName}'s gooey ass..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Anal",
+      "theText": [
+        "|f|PlayMotionEffect|/|ScreenSway|n|But her slimy rear clamps tight around your shaft and refuses to let you go!",
+        "|f|PlayMotionEffect|/|ScreenSway|n|But as you try to push her away, your hands sink into her body and get stuck!",
+        "|f|PlayMotionEffect|/|ScreenSway|n|But her goo desperately clings to your shaft, sucking your cock right back inside her rear!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Anal",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ahaha!♪'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n|'Come on! Let's keep going!'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm going to milk out all your cum if you don't get free!♪'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n|'Huh? Why would you want to stop?'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Anal",
+      "theText": [
+        "|f|PlayMotionEffect|/|Crash|n||f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Normal|n|And manage to get out of {AttackerName}'s gooey rear!",
+        "|f|PlayMotionEffect|/|Crash|n||f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Normal|n|And you free yourself from {AttackerName}'s gelatinous orifice!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Anal",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Oh! We should do it normally now!'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Awww... But that was so fun...'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Sex",
+      "theText": [
+        "{ThePlayerName} tries to pull out of {AttackerName}'s gooey pussy..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Sex",
+      "theText": [
+        "|f|PlayMotionEffect|/|ScreenSway|n|But her slimy slit clamps tight around your shaft and refuses to let you go!",
+        "|f|PlayMotionEffect|/|ScreenSway|n|But as you try to push her away, your hands sink into her body and get stuck!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Sex",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ahaha!♪'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n|'Come on! Let's keep going!'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm going to milk out all your cum if you don't get free!♪'",
+        "|f|ChangeImageLayer|/|SExpression|/|Excited|n|'Huh? Why would you want to stop?'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Sex",
+      "theText": [
+        "|f|PlayMotionEffect|/|Crash|n||f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Normal|n|And manage to get out of {AttackerName}'s gooey slit!",
+        "|f|PlayMotionEffect|/|Crash|n||f|ChangeImageLayer|/|ImageSetDontCarryOver|/|Normal|n|And you free yourself from {AttackerName}'s gelatinous orifice!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Sex",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Heyyy, get back here!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Eh? You don't want to feel super good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Ah?! I just wanted to milk out all your cum...'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Slimed 100%",
+      "theText": [
+        "{ThePlayerName} tries to break free from {AttackerName}'s thick slime covering {TargetHisOrHer} entire body..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Slimed 100%",
+      "theText": [
+        "But you can't seem to pull free of the goo as it clings to you, refusing to let you go!",
+        "But your struggle is to no avail as her slime continues to coat your entire body!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Slimed 100%",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ahaha!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm going to milk out all your cum if you don't get free!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ehehe! S-Stop squirming! I-It tickles!'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Slimed 100%",
+      "theText": [
+        "And manage to get out of {AttackerName}'s slime!",
+        "And you free yourself from {AttackerName}'s goo!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Slimed 100%",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Aww, now I have to start all over again...'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Heyyy, get back here!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Eh? You don't want to feel super good?'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Slimed 50%",
+      "theText": [
+        "{ThePlayerName} tries to break free from {AttackerName}'s slime covering {TargetHisOrHer} body..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Slimed 50%",
+      "theText": [
+        "But you can't seem to pull free of the goo as it clings to you, refusing to let you go!",
+        "But your struggle is to no avail as her slime continues to coat your body!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Slimed 50%",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ahaha!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm going to milk out all your cum if you don't get free!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ehehe! S-Stop squirming! I-It tickles!'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Slimed 50%",
+      "theText": [
+        "And manage to get out of {AttackerName}'s slime!",
+        "And you free yourself from {AttackerName}'s goo!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Slimed 50%",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Aww, now I have to start all over again...'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Heyyy, get back here!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Eh? You don't want to feel super good?'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Slimed",
+      "theText": [
+        "{ThePlayerName} tries to break free from {AttackerName}'s slime lightly covering {TargetHisOrHer} body..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Slimed",
+      "theText": [
+        "But you can't seem to pull the goo of of your body as it sticks to your skin!",
+        "But your struggle is to no avail as her slime continues to coat your body!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Slimed",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ahaha!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm going to milk out all your cum if you don't get free!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ehehe! S-Stop squirming! I-It tickles!'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Slimed",
+      "theText": [
+        "And manage to get out of {AttackerName}'s slime!",
+        "And you free yourself from {AttackerName}'s goo!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Slimed",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Aww, now I have to start all over again...'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Heyyy, get back here!'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Eh? You don't want to feel super good?'"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggle",
+      "move": "Making Out",
+      "theText": [
+        "{ThePlayerName} tries to break the deep kiss with {AttackerName}..."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFail",
+      "move": "Making Out",
+      "theText": [
+        "But her goo keeps tightly clinging to {ThePlayerName}, and he stays locked in a deep, slimy kiss!",
+        "But as you start to push her away, she wraps her gooey arms around the back of your head, deepening the kiss while she gazes cheerfully into your eyes."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleComment",
+      "move": "Making Out",
+      "theText": [
+        "",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|'Your saliva's so tasty!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'I'm not letting you go!♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|She gazes gleefully into your eyes."
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFree",
+      "move": "Making Out",
+      "theText": [
+        "And manage to push {AttackerName}'s gooey mouth away!",
+        "And free your mouth from {AttackerName}'s gooey lips!"
+      ]
+    },
+    {
+      "lineTrigger": "StanceStruggleFreeComment",
+      "move": "Making Out",
+      "theText": [
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Awww... I wanted to kiss some more...'",
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Ah... Hey can I have more of your saliva?'"
+      ]
+    }
+  ],
+  "victoryScenes": [
+    {
+      "NameOfScene": "",
+      "move": "",
+      "stance": "",
+      "includes": [""],
+      "theScene": [""],
+      "picture": ""
+    }
+  ],
+  "pictures": [
+    {
+      "Name": "Normal",
+      "Set": [
+        {
+          "Name": "Expression",
+          "StartOn": "1",
+          "AlwaysOn": "1",
+          "IsScene": "0",
+          "TheBody": "1",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.3",
+          "Images": [
+            {
+              "Name": "Base",
+              "File": "Monsters/Blue slime/blueSlime_Base.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Base Blush",
+              "File": "Monsters/Blue slime/blueSlime_Base_Blush.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Smile",
+              "File": "Monsters/Blue slime/blueSlime_Smile.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Smile Blush",
+              "File": "Monsters/Blue slime/blueSlime_Smile_Blush.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Excited",
+              "File": "Monsters/Blue slime/blueSlime_Excited.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Excited Blush",
+              "File": "Monsters/Blue slime/blueSlime_Excited_Blush.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Happy",
+              "File": "Monsters/Blue slime/blueSlime_Happy.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Shy",
+              "File": "Monsters/Blue slime/blueSlime_Shy.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Smug",
+              "File": "Monsters/Blue slime/blueSlime_Smug.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Smug Blush",
+              "File": "Monsters/Blue slime/blueSlime_Smug_Blush.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Lewd",
+              "File": "Monsters/Blue slime/blueSlime_Lewd.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "ItsFine",
+              "File": "Monsters/Blue slime/blueSlime_ItsFine.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Angry",
+              "File": "Monsters/Blue slime/blueSlime_Angry.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Sex",
+      "Set": [
+        {
+          "Name": "PlayerBody",
+          "StartOn": "1",
+          "AlwaysOn": "1",
+          "IsScene": "1",
+          "TheBody": "0",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.0",
+          "Player": "Yes",
+          "Images": [
+            {
+              "Name": "Body",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Guy.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        },
+        {
+          "Name": "PlayerBodySilhouette",
+          "StartOn": "1",
+          "AlwaysOn": "1",
+          "IsScene": "1",
+          "TheBody": "0",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.0",
+          "Player": "Silhouette",
+          "Images": [
+            {
+              "Name": "Body",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_GuySilhouette.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        },
+        {
+          "Name": "SlimeBacking",
+          "StartOn": "1",
+          "AlwaysOn": "1",
+          "IsScene": "1",
+          "TheBody": "0",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.0",
+          "Images": [
+            {
+              "Name": "Base",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_OpacityBacking.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        },
+        {
+          "Name": "SlimeBody",
+          "StartOn": "1",
+          "AlwaysOn": "1",
+          "IsScene": "1",
+          "TheBody": "0",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.0",
+          "Images": [
+            {
+              "Name": "Base",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_SlimeBody.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        },
+        {
+          "Name": "SlimeBodyCum",
+          "StartOn": "0",
+          "AlwaysOn": "0",
+          "IsScene": "1",
+          "TheBody": "0",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.0",
+          "Images": [
+            {
+              "Name": "Base",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Cum.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        },
+        {
+          "Name": "SExpression",
+          "StartOn": "1",
+          "AlwaysOn": "1",
+          "IsScene": "1",
+          "TheBody": "0",
+          "Overlay": "No",
+          "setXalign": "0.0",
+          "setYalign": "0.0",
+          "Images": [
+            {
+              "Name": "Dominant",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Dominant.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Excited",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Excited.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Happy",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Happy.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Orgasm",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Orgasm.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Pleasured",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Pleasured.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Seductive",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Seductive.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            },
+            {
+              "Name": "Shy",
+              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Shy.png",
+              "setXalign": "0.0",
+              "setYalign": "0.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
