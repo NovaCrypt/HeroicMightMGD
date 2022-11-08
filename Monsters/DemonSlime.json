@@ -1693,7 +1693,7 @@
           "Images": [
             {
               "Name": "Base",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_SlimeBody.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_SlimeBody.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             }
@@ -1729,43 +1729,43 @@
           "Images": [
             {
               "Name": "Dominant",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Dominant.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Dominant.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Excited",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Excited.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Excited.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Happy",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Happy.png",
+              "File": "M../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Orgasm",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Orgasm.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Orgasm.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Pleasured",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Pleasured.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Pleasured.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Seductive",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Seductive.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Seductive.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Shy",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Expression_Shy.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Shy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             }
