@@ -1542,79 +1542,79 @@
           "Images": [
             {
               "Name": "Base",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Base.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Base.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Base Blush",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Base_Blush.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Base_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smile",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smile.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smile.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smile Blush",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smile_Blush.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smile_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Excited",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Excited.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Excited.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Excited Blush",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Excited_Blush.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Excited_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Happy",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Happy.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Happy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Shy",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Shy.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Shy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smug",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smug.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smug.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smug Blush",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smug_Blush.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smug_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Lewd",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonblueSlime_Lewd.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonblueSlime_Lewd.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "ItsFine",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_ItsFine.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_ItsFine.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Angry",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Angry.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Angry.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             }
@@ -1693,7 +1693,7 @@
           "Images": [
             {
               "Name": "Base",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_SlimeBody.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_SlimeBody.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             }
@@ -1729,43 +1729,43 @@
           "Images": [
             {
               "Name": "Dominant",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Dominant.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Dominant.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Excited",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Excited.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Excited.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Happy",
-              "File": "M../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
+              "File": "M../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Orgasm",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Orgasm.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Orgasm.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Pleasured",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Pleasured.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Pleasured.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Seductive",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Seductive.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Seductive.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Shy",
-              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Shy.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Shy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             }
