@@ -1542,79 +1542,79 @@
           "Images": [
             {
               "Name": "Base",
-              "File": "Monsters/Blue slime/blueSlime_Base.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Base.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Base Blush",
-              "File": "Monsters/Blue slime/blueSlime_Base_Blush.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Base_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smile",
-              "File": "Monsters/Blue slime/blueSlime_Smile.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smile.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smile Blush",
-              "File": "Monsters/Blue slime/blueSlime_Smile_Blush.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smile_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Excited",
-              "File": "Monsters/Blue slime/blueSlime_Excited.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Excited.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Excited Blush",
-              "File": "Monsters/Blue slime/blueSlime_Excited_Blush.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Excited_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Happy",
-              "File": "Monsters/Blue slime/blueSlime_Happy.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Happy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Shy",
-              "File": "Monsters/Blue slime/blueSlime_Shy.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Shy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smug",
-              "File": "Monsters/Blue slime/blueSlime_Smug.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smug.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Smug Blush",
-              "File": "Monsters/Blue slime/blueSlime_Smug_Blush.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Smug_Blush.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Lewd",
-              "File": "Monsters/Blue slime/blueSlime_Lewd.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonblueSlime_Lewd.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "ItsFine",
-              "File": "Monsters/Blue slime/blueSlime_ItsFine.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_ItsFine.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
             {
               "Name": "Angry",
-              "File": "Monsters/Blue slime/blueSlime_Angry.png",
+              "File": "../Mods/HeroicMightMDG/images/Monsters/DemonSlime/DemonSlime_Angry.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             }
