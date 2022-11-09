@@ -98,20 +98,20 @@
         "Expression",
         "1",
         "Base Blush",
-        "You gasp and weakly struggle against the slime's gooey body, but you're far too tired to even begin to break free of her grasp as she looks down at you with an innocent, noticeably eager expression.",
+        "You gasp and weakly struggle against the slime's gooey body, but you're far too tired to even begin to break free of her grasp as she looks down at you with an almost sultry, noticeably eager expression.",
         "Speaks",
-        "Huh? You're not going to try and run away anymore?",
+        "Huh? You're not going to try and run away anymore? You're mine now!",
         "ChangeImageLayer",
         "Expression",
         "1",
         "Happy",
-        "Her face breaks out into a happy smile as a blobby cushion of her slime begins to pool underneath you, slowly trapping your arms and comfortably squeezing your body as she continues to gently titfuck your sensitive manhood.",
+        "Her face breaks out into a happy smile as a blobby cushion of her slime begins to pool underneath you, slowly trapping your arms and comfortably squeezing your body as she continues to skillfully titfuck your sensitive manhood.",
         "ChangeImageLayer",
         "Expression",
         "1",
         "Excited Blush",
         "Speaks",
-        "Yay!♪ That means I get to drain out alllll of your cum!♪ Don't worry, I'm going to make you feel {i}suuuper{/i} good!♪",
+        "Yay!♪ That means I get to drain out {b}alllll{/b} of your cum!♪ Don't worry, I'm going to make you feel {i}suuuper{/i} good!♪",
         "ChangeImageLayer",
         "Expression",
         "1",
@@ -125,17 +125,17 @@
         "1",
         "Excited Blush",
         "Speaks",
-        "Ah!♪ You're gonna cum!♪ Go on!♪ Cum!♪ Cum!♪ Cum!♪",
+        "Ah!♪ You're gonna cum!♪ Go on!♪ Cum!♪ {i}Cum!{/i}♪ {b}Cum!♪{/b}",
         "PlayerOrgasm",
         "1",
         "The slime eagerly pumps your aching shaft harder and faster to punctuate her words, making you blissfully moan as the pressure in your spasming manhood builds with every movement she makes until you're finally pushed over the edge, crying out in ecstasy as your cock spurts thick ropes of cum all over the slime's breasts and smiling face.",
-        "She giggles happily as her gooey body begins to absorb your semen, and you watch it cloud her slime before slowly dissolving into nothingness, taking a movement to recover from your orgasm as your shaft throbs between her breasts.",
+        "She giggles seductively, clearly more experience than your average sliem, as her gooey body begins to absorb your semen, and you watch it cloud her slime before slowly dissolving into nothingness, taking a movement to recover from your orgasm as your shaft throbs between her breasts.",
         "ChangeImageLayer",
         "Expression",
         "1",
         "Base Blush",
         "Speaks",
-        "Hahhh...♪ Your cum tastes soooo good!♪",
+        "Hahhh...♪ Your cum tastes soooo {i}good!{/i}♪",
         "But moments later she resumes her chest's teasing movements, forcing a soft moan from your lips as she gently rolls her slimy tits around your length, occasionally stopping to squeeze them together before continuing her rolling motions all over again, massaging every inch of your cock while the blobby cushion underneath you keeps your body in a state of tensionless bliss with its relaxing massage.",
         "ChangeImageLayer",
         "Expression",
@@ -157,7 +157,7 @@
         "1",
         "Excited Blush",
         "Speaks",
-        "Yay!♪ Mmmmm...♪ You keep covering me with so much.♪",
+        "{b}Yay!♪{/b} Mmmmm...♪ You keep covering me with so much.♪",
         "Your cum slowly seeps into her gooey body only to be dissolved once more as you're left gasping while partially submerged into her slime, and you let out a whimper of pleasure as one of her hands reaches down and grabs your twitching balls, gently massaging them while you're still achingly sensitive from the aftermath of your climax.",
         "ChangeImageLayer",
         "Expression",
@@ -218,7 +218,16 @@
         "She cuddles closer towards you, resting her head in the hollow of your neck as her eyes drift closed while your entire body continues to be caressed and massaged in her gooey grasp, leaving you to sigh as the blissful afterglow from your several powerful orgasms fills you, making your eyelids droop and eventually close as you're gently sent into a deep, peaceful sleep...",
         "ChangeSensitivity",
         "Sex",
-        "5"
+        "15",
+        "ChangeFetish",
+        "Oral",
+        "5",
+        "ChangeFetish",
+        "Breasts",
+        "15",
+        "ChangeFetish",
+        "Monstrous",
+        "20"
       ],
       "picture": ""
     },
@@ -459,14 +468,14 @@
         "PlayBlackOut",
         "EndVisualEffect2",
         "ChangeSensitivity",
-        "Breasts",
-        "2",
-        "ChangeSensitivity",
         "Sex",
-        "2",
-        "ChangeSensitivity",
-        "Ass",
-        "2"
+        "30",
+        "ChangeFetish",
+        "Sex",
+        "20",
+        "ChangeFetish",
+        "Monstrous",
+        "20"
       ],
       "picture": ""
     },
@@ -670,10 +679,16 @@
         "2",
         "ChangeSensitivity",
         "Sex",
-        "2",
+        "20",
         "ChangeSensitivity",
         "Ass",
-        "2"
+        "20",
+        "ChangeFetish",
+        "Sex",
+        "35",
+        "ChangeFetish",
+        "Monstrous",
+        "20"
       ],
       "picture": ""
     }
@@ -690,7 +705,7 @@
       "move": "Tit Fucking",
       "theText": [
         "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Wow you must really like my boobs!'",
-        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Oh do you want to feed me you cum? I won't mind.♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Oh do you want to feed me you cum? {b}Do it!{/b}♥'",
         "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Ehehe, you're making my tits jiggle a lot.'"
       ]
     },
@@ -727,7 +742,7 @@
       "theText": [
         "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Hehe, it tickles.'",
         "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'This feels nice...♪ I should make you feel nice too.♪'",
-        "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|The slime eagerly accepts your pats, but seems completely unaffected, and intent on lewding you."
+        "|f|ChangeImageLayer|/|Expression|/|ItsFine|n||f|ChangeImageLayer|/|SExpression|/|Lewd|n|The slime eagerly accepts your pats, and looks to be in ecstasy at your holy touch, and is even more intent on lewding you."
       ]
     },
     {
@@ -753,17 +768,14 @@
       "move": ["Arouse", "Arousara", "Arousero"],
       "theText": [
         "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'OOHHHH!♥ Ahhh? What happened? It felt really good!",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe♥ I can't think straight all of a sudden...'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahhh? MMMM?!♥ D-Did you do that, h-human?'"
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe♥ I can't think straight all of a sudden...'"
       ]
     },
     {
       "lineTrigger": "HitWith",
       "move": "Electrify",
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'AHHH! I-I'm gonna melt!♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I-I can feel it everywhere!♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|She's only able to let out incoherent noises of happiness as she trembles in bliss..."
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I-I can feel it everywhere!♥'"
       ]
     },
     {
@@ -795,7 +807,6 @@
       "theText": [
         "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Really?!♥ Okay! Then let's do it right now.♪'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Well, I'll eat up your every drop of cum.♪'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'|n||f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Wait, I'm always gooey.'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Hmmmm, we should just cuddle while I milk your cum out then.♪'"
       ]
@@ -804,8 +815,7 @@
       "lineTrigger": "HitWith",
       "move": ["Ear Tease", "Massaging Seduction"],
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe, that tickles! Hmmm, and feel really good.'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe, that tickles!'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'You're making me feel all warm and gooey...'|n||f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Wait, I'm always gooey.'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'Hmmm, I bet my slime would feel good doing that to you...'"
       ]
@@ -814,9 +824,9 @@
       "lineTrigger": "HitWith",
       "move": "Finger",
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'That feels really nice!♪'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahhhh, so good!'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh, you're so warm...'"
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'I'm going to take it {b}ALL!{/b}♪'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'{i}Ahhhh!{/i}'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...'"
       ]
     },
     {
@@ -824,16 +834,15 @@
       "move": "Dildo",
       "theText": [
         "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Ah? Does it have semen in it?'",
-        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Can I eat it? Ahhhh, but it feels really nice...'",
-        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Excited|n|'Mmmm, that's a weird sword... I like it!'"
+        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Can I eat it?♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Base|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Mmmm, that's a weird sword...'"
       ]
     },
     {
       "lineTrigger": "HitWith",
       "move": ["Charm", "Charm Wave"],
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Uhm ah... Will you stay with me forever?♪'",
-        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ehhh?! I-Is this what falling in love feels like?!'"
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Uhm ah... Will you stay with me forever?♪'"
       ]
     },
     {
@@ -849,8 +858,7 @@
       "lineTrigger": "HitWith",
       "move": "Kiss",
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Oh wow, you taste sweet...'",
-        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Can we kiss more?'",
+        "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'Oh wow, you taste sweet...'",
         "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|'Come on, lets kiss even more!♪'"
       ]
     },
@@ -864,7 +872,7 @@
         "Sensually Seductive Kiss"
       ],
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Ahh.. Your saliva tastes good...'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n|'Ahh.. Your saliva tastes good...'",
         "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Do I taste good?'",
         "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n||f|ChangeImageLayer|/|SExpression|/|Dominant|n|She traps your tongue in her gooey mouth, pulling you deeper into her kiss as she lustily stares into your eyes."
       ]
@@ -882,7 +890,6 @@
       "lineTrigger": "HitWith",
       "move": ["Squeeze Ass", "Massage Ass", "Fondle Ass"],
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ah...♥ My butt feels like it's going to melt away.♥'",
         "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Mmmm!♥ Ehehe!♪ Keep going!'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♪'"
       ]
@@ -900,8 +907,8 @@
       "lineTrigger": "HitWith",
       "move": "Suckle",
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Do I taste good?'",
-        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Eh? Are you trying to drink me? I-It feels weird...♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Do I taste good?'",
+        "|f|ChangeImageLayer|/|Expression|/|Shy|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'Eh? Are you trying to drink me?♥'",
         "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Shy|n|'Ahhh...♥ Uhm, don't forget to breathe.♪'"
       ]
     },
@@ -926,7 +933,6 @@
       "lineTrigger": "HitWith",
       "move": ["Thrust", "Channeling Thrust"],
       "theText": [
-        "|f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ehehe♥ This feels super good!'",
         "|f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
         "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
         "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
@@ -936,17 +942,13 @@
       "lineTrigger": "HitWith",
       "move": ["Pound", "Multi Thrust", "Empowered Thrust", "Carrying Fuck"],
       "theText": [
-        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahh?! I feel like I'm gonna melt!♥'",
-        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'I'm feeling it everywhere!♥'",
-        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'Ohh!♥ T-This is bad!♥'",
-        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'Ehehe,♥ I can't think straight!♥'"
+        "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n'I'm feeling it everywhere!♥'"
       ]
     },
     {
       "lineTrigger": "HitWith",
       "move": ["Tantric Thrust", "Passionate Lovemaking"],
       "theText": [
-        "|f|ChangeImageLayer|/|SExpression|/|Happy|n|'I'm feeling it everywhere.♥'",
         "|f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
         "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
         "|f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
@@ -963,7 +965,7 @@
       "lineTrigger": "HitWithA",
       "move": "Thrust",
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ehehe,♥ This feels super good!'",
+        "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n||f|ChangeImageLayer|/|SExpression|/|Happy|n|'Ehehe ♥ '",
         "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
         "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
         "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
@@ -979,20 +981,17 @@
         "Anal Piston"
       ],
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahh?! I feel like I'm gonna melt!♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I'm feeling it everywhere!♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ohh!♥ T-This is bad!♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ehehe,♥ I can't think straight!♥'"
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Ahh?!♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'{i}Ohh!{/i}♥'",
+        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Lewd|n|'Ehehe ♥'"
       ]
     },
     {
       "lineTrigger": "HitWithA",
       "move": ["Tantric Thrust", "Passionate Lovemaking"],
       "theText": [
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'I'm feeling it everywhere!♥'",
         "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Seductive|n|'You could just lay back and let me handle everything, you know.♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Lewd|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Mmmm!♥ Ahhhh...♥'",
-        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ You're so warm...'"
+        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n||f|ChangeImageLayer|/|SExpression|/|Pleasured|n|'Hahhhh...♥ '"
       ]
     },
 
