@@ -1740,7 +1740,7 @@
             },
             {
               "Name": "Happy",
-              "File": "M../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
+              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
               "setXalign": "0.0",
               "setYalign": "0.0"
             },
