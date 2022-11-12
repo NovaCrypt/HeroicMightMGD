@@ -18,7 +18,7 @@
       "NameOfScene": "Learn Skills.",
       "theScene": [
         "SkillShoppingMenu",
-        "Heoric Headpat", "Hero's Lightning", "Heroic Advantage",
+        "Heroic Headpat", "Hero's Lightning", "Heroic Advantage",
         "EndLoop",
         "JumpToScene",
         "LucilleMenu"
