@@ -12,7 +12,7 @@
     "fetishTags": [ ""],
 
     "startsStance": [ ""],
-    "requiresStance": [ "Any"],
+    "requiresStance": "Any",
     "unusableIfStance": [ "Face Sit", "Footjob", "Nursing", "Breast Smother"],
     "requiresTargetStance": [ "Any"],
     "unusableIfTarget": [ ""],
