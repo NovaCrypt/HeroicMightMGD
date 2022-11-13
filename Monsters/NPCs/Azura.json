@@ -1,65 +1,89 @@
 {
-    "name": "",
-    "IDname": "",
-    "species": "",
+    "name": "Azura",
+    "IDname": "Azura",
+    "species": "Demonic Slime",
     "gender": "female",
-    "description": "",
+    "description": "She seems a little darker than the usually cheery slimes, but still has hints of a slimes usual nature. Looks completely identical to a regular demonic slime in every physical way though.",
     "encyclopedia": "",
     "tags": "none",
-    "generic": "",
-    "requires": [ ""],
-    "requiresEvent": [
-        {
-            "NameOfEvent": "",
-            "Progress": "99",
-            "Choice": "",
-            "ChoiceNumber": "-1"
-        }
-    ],
+    "generic": "False",
+    "requires": [""],
     "skillList": [
-        ""
+        "Gooey Caress",
+        "Deep Kiss",
+        "Gooey Grapple",
+        "Slime Cling",
+        "Slime Engulf",
+        "Full Body Slime Massage",
+        "Slimy Prostate Milking",
+        "Twisting Gooey Sex",
+        "Slimy Insertion",
+        "Gooey Titfucking",
+        "Slimy Cushion",
+        "Gooey Titfuck",
+        "Gooey Titfuck",
+        "Jellowy Squeeze",
+        "Jellowy Squeeze",
+        "Accidental Slime Fuck",
+        "Slimy Escape",
+        "Slimy Re-Insertion",
+        "Slimy Titfucking",
+        "Urethral Slime Attack",
+        "Slimy Prostate Milking"
     ],
-    "perks": [ ""],
+    "perks": ["Pacing", "Sadist", "Swift", "Clingy", "Calculated"],
     "stats": {
-        "lvl": "1",
-        "Exp": "10",
-        "max_hp": "100",
-        "max_ep": "10",
-        "max_sp": "1",
-        "Power": "5",
-        "Technique": "5",
-        "Intelligence": "5",
-        "Allure": "5",
-        "Willpower": "5",
-        "Luck": "5"
+        "lvl": "20",
+        "Exp": "1000",
+        "max_hp": "800",
+        "max_ep": "120",
+        "max_sp": "2",
+        "Power": "18",
+        "Technique": "15",
+        "Intelligence": "26",
+        "Allure": "15",
+        "Willpower": "9",
+        "Luck": "31"
     },
-    "Fetishes": [ ""],
+    "Fetishes": [""],
     "BodySensitivity": {
-        "Sex": "100",
-        "Ass": "100",
-        "Breasts": "100",
+        "Sex": "60",
+        "Ass": "60",
+        "Breasts": "40",
         "Mouth": "100",
-        "Seduction": "100",
-        "Magic": "100",
-        "Pain": "100",
-        "Holy": "100",
-        "Unholy": "100"
+        "Seduction": "120",
+        "Magic": "20",
+        "Pain": "20",
+        "Holy": "300",
+        "Unholy": "0"
     },
     "resistancesStatusEffects": {
-        "Stun": "0",
+        "Stun": "100",
         "Charm": "0",
         "Aphrodisiac": "0",
-        "Restraints": "0",
-        "Sleep": "0",
-        "Trance": "0",
-        "Paralysis": "0",
+        "Restraints": "100",
+        "Sleep": "100",
+        "Trance": "100",
+        "Paralysis": "100",
         "Debuff": "0"
     },
-    "moneyDropped": "0",
+    "moneyDropped": "500",
     "ItemDropList": [
         {
-            "name": "",
-            "dropChance": ""
+            "name": "Demon Slime Blob",
+            "dropChance": "100"
+        },
+        {
+            "name": "Demon Slime Blob",
+            "dropChance": "100"
+        },
+        {
+            "name": "Demon Slime Blob",
+            "dropChance": "75"
+        },
+        {
+            "name": "Demon Slime Blob",
+            "dropChance": "50"
         }
     ],
     "lossScenes": [
