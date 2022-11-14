@@ -1,0 +1,28 @@
+{
+    "name": "Powerful 'demon' slime in woods!",
+    "CardType": "Quest",
+    "CardLimit": "1",
+    "Description": "",
+    "requires": [ "Sigil Of Allure"],
+    "Speakers": [
+        {
+            "name": "???",
+            "postName": "",
+            "SpeakerType": "?"
+        },
+        {
+            "name": "Azura",
+            "postName": "",
+            "SpeakerType": ""
+        }
+    ],
+    "EventText": [
+        {
+            "NameOfScene": "",
+            "theScene": [
+            ""
+            ]
+        }
+
+    ]
+}
