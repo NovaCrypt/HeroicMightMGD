@@ -50,6 +50,8 @@
                 "Hi there? I don't suppose you'd be interested in talking for a moment? Nothing lewd I swear!",
                 "Speaks",
                 "What?! Where'd you come from? No way! Nobody just {i}talks{/i} these days... I won't let you trick me!",
+                "ChangeProgress",
+                "1",
                 "The slime takes on a combat stance and prepares to fight...",
                 "JumpToScene",
                 "ATTACK!"
