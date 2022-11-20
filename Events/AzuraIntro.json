@@ -68,6 +68,8 @@
         {
             "NameOfScene": "Leave.",
             "theScene": [
+                "PlayerSpeaks",
+                "({i}Hmmm... Maybe this isn't the best idea{/i}.)",
                 "DisplayCharacters",
                 "EndLoop",
                 "JumpToScene",
@@ -77,7 +79,7 @@
         {
             "NameOfScene": "Return to town.",
             "theScene": [
-                "Deciding t=you know better than to face a magically powered demonic slime while completely unawares of your own position, thanks to your grimoire... You depart the clearing and attempt to find your way back to town.",
+                "Deciding that you know better than to face a magically powered demonic slime while completely unawares of your own position, thanks to your grimoire... You depart the clearing and attempt to find your way back to town.",
                 "GoToTown"
             ]
         }
