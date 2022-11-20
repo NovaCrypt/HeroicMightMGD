@@ -28,7 +28,41 @@
             "Return to town.",
             "EndLoop"
             ]
+        },
+        {
+            "NameOfScene": "Approach the slime...",
+            "theScene": [
+                "You sneak up to the slime, it's lucky that she has her back turned to you otherwise this would certainly be much more difficult... Regardless, you get to about a meter away and ponder what action you should take from here, would it really be safe to talk to her, or should you just attack? Leaving is still an option...",
+                "Menu",
+                "Talk?",
+                "ATTACK!",
+                "Leave.",
+                "EndLoop"
+            ]
+        },
+        {
+            "NameOfScene": "Talk?",
+            "theScene": [
+                ""
+            ]
+        },
+        {
+            "NameOfScene": "ATTACK!",
+            "theScene": [
+                ""
+            ]
+        },
+        {
+            "NameOfScene": "Leave.",
+            "theScene": [
+                ""
+            ]
+        },
+        {
+            "NameOfScene": "Return to town.",
+            "theScene": [
+                ""
+            ]
         }
-
     ]
 }
