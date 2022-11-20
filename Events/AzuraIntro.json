@@ -13,14 +13,20 @@
         {
             "name": "Azura",
             "postName": "",
-            "SpeakerType": ""
+            "SpeakerType": "monster"
         }
     ],
     "EventText": [
         {
-            "NameOfScene": "",
+            "NameOfScene": "EventStart",
             "theScene": [
-            ""
+            "Stumbling though the shrubbery after some kind of glitch with your grimoir, you notice that the area around you has suddenly changed and can only ponder where you've ended up after the enchantment dropping you somewhere at random.",
+            "It;s then that you see a clearing coming up through the bushes and decide to keep a low profile on your approach. This turns out to be one of your better ideas as you see a slime girl in the clearing with a purplish hue...",
+            "You recognise this to be a demonic slime, one of those monster girls that have addapted to the use of darker energies on this continent. The question is, do you take advantage of your stealthy position and head back to town, or approach the slime girl and attempt to strike a conversation of some kind?",
+            "Menu",
+            "Approach the slime...",
+            "Return to town.",
+            "EndLoop"
             ]
         }
 
