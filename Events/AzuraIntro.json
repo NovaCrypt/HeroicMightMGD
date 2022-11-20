@@ -21,7 +21,7 @@
             "NameOfScene": "EventStart",
             "theScene": [
             "Stumbling though the shrubbery after some kind of glitch with your grimoir, you notice that the area around you has suddenly changed and can only ponder where you've ended up after the enchantment dropping you somewhere at random.",
-            "It;s then that you see a clearing coming up through the bushes and decide to keep a low profile on your approach. This turns out to be one of your better ideas as you see a slime girl in the clearing with a purplish hue...",
+            "It's then that you see a clearing coming up through the bushes and decide to keep a low profile on your approach. This turns out to be one of your better ideas as you see a slime girl in the clearing with a purplish hue...",
             "You recognise this to be a demonic slime, one of those monster girls that have addapted to the use of darker energies on this continent. The question is, do you take advantage of your stealthy position and head back to town, or approach the slime girl and attempt to strike a conversation of some kind?",
             "Menu",
             "Approach the slime...",
@@ -33,6 +33,9 @@
             "NameOfScene": "Approach the slime...",
             "theScene": [
                 "You sneak up to the slime, it's lucky that she has her back turned to you otherwise this would certainly be much more difficult... Regardless, you get to about a meter away and ponder what action you should take from here, would it really be safe to talk to her, or should you just attack? Leaving is still an option...",
+                "DisplayCharacters",
+                "2",
+                "EndLoop",
                 "Menu",
                 "Talk?",
                 "ATTACK!",
@@ -43,19 +46,25 @@
         {
             "NameOfScene": "Talk?",
             "theScene": [
-                ""
+                "JumpToScene",
+                "ATTACK!"
             ]
         },
         {
             "NameOfScene": "ATTACK!",
             "theScene": [
-                ""
+                "CombatEncounter", "NoRunning",
+                "Azura",
+                "StartCombat"
             ]
         },
         {
             "NameOfScene": "Leave.",
             "theScene": [
-                ""
+                "DisplayCharacters",
+                "EndLoop",
+                "JumpToScene",
+                "Return to town."
             ]
         },
         {
