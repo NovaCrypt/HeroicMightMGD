@@ -61,7 +61,8 @@
         {
             "NameOfScene": "Return to town.",
             "theScene": [
-                ""
+                "Deciding t=you know better than to face a magically powered demonic slime while completely unawares of your own position, thanks to your grimoire... You depart the clearing and attempt to find your way back to town.",
+                "GoToTown"
             ]
         }
     ]
