@@ -1,394 +1,394 @@
 {
-  "name": "Azura",
-  "IDname": "Azura",
-  "species": "Demonic Slime",
-  "gender": "female",
-  "description": "She seems a little darker than the usually cheery slimes, but still has hints of a slimes usual nature. Looks completely identical to a regular demonic slime in every physical way though.",
-  "encyclopedia": "",
-  "tags": "none",
-  "generic": "False",
-  "requires": [""],
-  "skillList": [
-    "Gooey Caress",
-    "Deep Kiss",
-    "Gooey Grapple",
-    "Slime Cling",
-    "Slime Engulf",
-    "Full Body Slime Massage",
-    "Slimy Prostate Milking",
-    "Twisting Gooey Sex",
-    "Slimy Insertion",
-    "Gooey Titfucking",
-    "Slimy Cushion",
-    "Gooey Titfuck",
-    "Gooey Titfuck",
-    "Jellowy Squeeze",
-    "Jellowy Squeeze",
-    "Accidental Slime Fuck",
-    "Slimy Escape",
-    "Slimy Re-Insertion",
-    "Slimy Titfucking",
-    "Urethral Slime Attack",
-    "Slimy Prostate Milking"
-  ],
-  "perks": ["Pacing", "Sadist", "Swift", "Clingy", "Calculated"],
-  "stats": {
-    "lvl": "20",
-    "Exp": "1000",
-    "max_hp": "800",
-    "max_ep": "120",
-    "max_sp": "2",
-    "Power": "18",
-    "Technique": "15",
-    "Intelligence": "26",
-    "Allure": "15",
-    "Willpower": "9",
-    "Luck": "31"
-  },
-  "Fetishes": [""],
-  "BodySensitivity": {
-    "Sex": "60",
-    "Ass": "60",
-    "Breasts": "40",
-    "Mouth": "100",
-    "Seduction": "120",
-    "Magic": "20",
-    "Pain": "20",
-    "Holy": "300",
-    "Unholy": "0"
-  },
-  "resistancesStatusEffects": {
-    "Stun": "100",
-    "Charm": "0",
-    "Aphrodisiac": "0",
-    "Restraints": "100",
-    "Sleep": "100",
-    "Trance": "100",
-    "Paralysis": "100",
-    "Debuff": "0"
-  },
-  "moneyDropped": "500",
-  "ItemDropList": [
-    {
-      "name": "Demon Slime Blob",
-      "dropChance": "100"
-    },
-    {
-      "name": "Demon Slime Blob",
-      "dropChance": "100"
-    },
-    {
-      "name": "Demon Slime Blob",
-      "dropChance": "75"
-    },
-    {
-      "name": "Demon Slime Blob",
-      "dropChance": "50"
-    }
-  ],
-  "lossScenes": [
-    {
-      "NameOfScene": "",
-      "move": "",
-      "stance": "",
-      "includes": [""],
-      "theScene": [""],
-      "picture": ""
-    }
-  ],
-  "combatDialogue": [
-    {
-      "lineTrigger": "HitWith",
-      "move": "",
-      "theText": [""]
-    },
-    {
-      "lineTrigger": "UsesMove",
-      "move": "",
-      "theText": ["''"]
-    },
-    {
-      "lineTrigger": "LowHealth",
-      "move": "",
-      "theText": ["''"]
-    },
-    {
-      "lineTrigger": "PlayerLowHealth",
-      "move": "",
-      "theText": ["''"]
-    },
-    {
-      "lineTrigger": "OnPlayerOrgasm",
-      "move": "",
-      "theText": [""]
-    },
-    {
-      "lineTrigger": "onOrgasm",
-      "move": "",
-      "theText": [""]
-    },
-    {
-      "lineTrigger": "OnSurrender",
-      "move": "",
-      "theText": [""]
-    }
-  ],
-  "victoryScenes": [
-    {
-      "NameOfScene": "",
-      "move": "",
-      "stance": "",
-      "includes": [""],
-      "theScene": [""],
-      "picture": ""
-    }
-  ],
-  "pictures": [
-    {
-      "Name": "Normal",
-      "Set": [
-        {
-          "Name": "Expression",
-          "StartOn": "1",
-          "AlwaysOn": "1",
-          "IsScene": "0",
-          "TheBody": "1",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.3",
-          "Images": [
-            {
-              "Name": "Base",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Base.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Base Blush",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Base_Blush.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Smile",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smile.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Smile Blush",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smile_Blush.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Excited",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Excited.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Excited Blush",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Excited_Blush.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Happy",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Happy.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Shy",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Shy.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Smug",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smug.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Smug Blush",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smug_Blush.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Lewd",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonblueSlime_Lewd.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "ItsFine",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_ItsFine.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Angry",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Angry.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Name": "Sex",
-      "Set": [
-        {
-          "Name": "PlayerBody",
-          "StartOn": "1",
-          "AlwaysOn": "1",
-          "IsScene": "1",
-          "TheBody": "0",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.0",
-          "Player": "Yes",
-          "Images": [
-            {
-              "Name": "Body",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Guy.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        },
-        {
-          "Name": "PlayerBodySilhouette",
-          "StartOn": "1",
-          "AlwaysOn": "1",
-          "IsScene": "1",
-          "TheBody": "0",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.0",
-          "Player": "Silhouette",
-          "Images": [
-            {
-              "Name": "Body",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_GuySilhouette.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        },
-        {
-          "Name": "SlimeBacking",
-          "StartOn": "1",
-          "AlwaysOn": "1",
-          "IsScene": "1",
-          "TheBody": "0",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.0",
-          "Images": [
-            {
-              "Name": "Base",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_OpacityBacking.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        },
-        {
-          "Name": "SlimeBody",
-          "StartOn": "1",
-          "AlwaysOn": "1",
-          "IsScene": "1",
-          "TheBody": "0",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.0",
-          "Images": [
-            {
-              "Name": "Base",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_SlimeBody.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        },
-        {
-          "Name": "SlimeBodyCum",
-          "StartOn": "0",
-          "AlwaysOn": "0",
-          "IsScene": "1",
-          "TheBody": "0",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.0",
-          "Images": [
-            {
-              "Name": "Base",
-              "File": "Monsters/Blue slime/Sex/SlimeSex_Cum.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        },
-        {
-          "Name": "SExpression",
-          "StartOn": "1",
-          "AlwaysOn": "1",
-          "IsScene": "1",
-          "TheBody": "0",
-          "Overlay": "No",
-          "setXalign": "0.0",
-          "setYalign": "0.0",
-          "Images": [
-            {
-              "Name": "Dominant",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Dominant.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Excited",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Excited.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Happy",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Orgasm",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Orgasm.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Pleasured",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Pleasured.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Seductive",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Seductive.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            },
-            {
-              "Name": "Shy",
-              "File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Shy.png",
-              "setXalign": "0.0",
-              "setYalign": "0.0"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"name": "Azura",
+	"IDname": "Azura",
+	"species": "Demonic Slime",
+	"gender": "female",
+	"description": "She seems a little darker than the usually cheery slimes, but still has hints of a slimes usual nature. Looks completely identical to a regular demonic slime in every physical way though.",
+	"encyclopedia": "",
+	"tags": "none",
+	"generic": "False",
+	"requires": [""],
+	"skillList": [
+		"Gooey Caress",
+		"Deep Kiss",
+		"Gooey Grapple",
+		"Slime Cling",
+		"Slime Engulf",
+		"Full Body Slime Massage",
+		"Slimy Prostate Milking",
+		"Twisting Gooey Sex",
+		"Slimy Insertion",
+		"Gooey Titfucking",
+		"Slimy Cushion",
+		"Gooey Titfuck",
+		"Gooey Titfuck",
+		"Jellowy Squeeze",
+		"Jellowy Squeeze",
+		"Accidental Slime Fuck",
+		"Slimy Escape",
+		"Slimy Re-Insertion",
+		"Slimy Titfucking",
+		"Urethral Slime Attack",
+		"Slimy Prostate Milking"
+	],
+	"perks": ["Pacing", "Sadist", "Swift", "Clingy", "Calculated"],
+	"stats": {
+		"lvl": "20",
+		"Exp": "1000",
+		"max_hp": "800",
+		"max_ep": "120",
+		"max_sp": "2",
+		"Power": "18",
+		"Technique": "15",
+		"Intelligence": "26",
+		"Allure": "15",
+		"Willpower": "9",
+		"Luck": "31"
+	},
+	"Fetishes": [""],
+	"BodySensitivity": {
+		"Sex": "60",
+		"Ass": "60",
+		"Breasts": "40",
+		"Mouth": "100",
+		"Seduction": "120",
+		"Magic": "20",
+		"Pain": "20",
+		"Holy": "300",
+		"Unholy": "0"
+	},
+	"resistancesStatusEffects": {
+		"Stun": "100",
+		"Charm": "0",
+		"Aphrodisiac": "0",
+		"Restraints": "100",
+		"Sleep": "100",
+		"Trance": "100",
+		"Paralysis": "100",
+		"Debuff": "0"
+	},
+	"moneyDropped": "500",
+	"ItemDropList": [
+		{
+			"name": "Demon Slime Blob",
+			"dropChance": "100"
+		},
+		{
+			"name": "Demon Slime Blob",
+			"dropChance": "100"
+		},
+		{
+			"name": "Demon Slime Blob",
+			"dropChance": "75"
+		},
+		{
+			"name": "Demon Slime Blob",
+			"dropChance": "50"
+		}
+	],
+	"lossScenes": [
+		{
+			"NameOfScene": "",
+			"move": "",
+			"stance": "",
+			"includes": [""],
+			"theScene": [""],
+			"picture": ""
+		}
+	],
+	"combatDialogue": [
+		{
+			"lineTrigger": "HitWith",
+			"move": "",
+			"theText": [""]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "",
+			"theText": ["''"]
+		},
+		{
+			"lineTrigger": "LowHealth",
+			"move": "",
+			"theText": ["''"]
+		},
+		{
+			"lineTrigger": "PlayerLowHealth",
+			"move": "",
+			"theText": ["''"]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "",
+			"theText": [""]
+		},
+		{
+			"lineTrigger": "onOrgasm",
+			"move": "",
+			"theText": [""]
+		},
+		{
+			"lineTrigger": "OnSurrender",
+			"move": "",
+			"theText": [""]
+		}
+	],
+	"victoryScenes": [
+		{
+			"NameOfScene": "",
+			"move": "",
+			"stance": "",
+			"includes": [""],
+			"theScene": [""],
+			"picture": ""
+		}
+	],
+	"pictures": [
+		{
+			"Name": "Normal",
+			"Set": [
+				{
+					"Name": "Expression",
+					"StartOn": "1",
+					"AlwaysOn": "1",
+					"IsScene": "0",
+					"TheBody": "1",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.3",
+					"Images": [
+						{
+							"Name": "Base",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Base.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Base Blush",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Base_Blush.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Smile",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smile.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Smile Blush",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smile_Blush.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Excited",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Excited.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Excited Blush",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Excited_Blush.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Happy",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Happy.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Shy",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Shy.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Smug",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smug.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Smug Blush",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Smug_Blush.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Lewd",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonblueSlime_Lewd.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "ItsFine",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_ItsFine.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Angry",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/DemonSlime_Angry.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Sex",
+			"Set": [
+				{
+					"Name": "PlayerBody",
+					"StartOn": "1",
+					"AlwaysOn": "1",
+					"IsScene": "1",
+					"TheBody": "0",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.0",
+					"Player": "Yes",
+					"Images": [
+						{
+							"Name": "Body",
+							"File": "Monsters/Blue slime/Sex/SlimeSex_Guy.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				},
+				{
+					"Name": "PlayerBodySilhouette",
+					"StartOn": "1",
+					"AlwaysOn": "1",
+					"IsScene": "1",
+					"TheBody": "0",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.0",
+					"Player": "Silhouette",
+					"Images": [
+						{
+							"Name": "Body",
+							"File": "Monsters/Blue slime/Sex/SlimeSex_GuySilhouette.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				},
+				{
+					"Name": "SlimeBacking",
+					"StartOn": "1",
+					"AlwaysOn": "1",
+					"IsScene": "1",
+					"TheBody": "0",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.0",
+					"Images": [
+						{
+							"Name": "Base",
+							"File": "Monsters/Blue slime/Sex/SlimeSex_OpacityBacking.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				},
+				{
+					"Name": "SlimeBody",
+					"StartOn": "1",
+					"AlwaysOn": "1",
+					"IsScene": "1",
+					"TheBody": "0",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.0",
+					"Images": [
+						{
+							"Name": "Base",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_SlimeBody.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				},
+				{
+					"Name": "SlimeBodyCum",
+					"StartOn": "0",
+					"AlwaysOn": "0",
+					"IsScene": "1",
+					"TheBody": "0",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.0",
+					"Images": [
+						{
+							"Name": "Base",
+							"File": "Monsters/Blue slime/Sex/SlimeSex_Cum.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				},
+				{
+					"Name": "SExpression",
+					"StartOn": "1",
+					"AlwaysOn": "1",
+					"IsScene": "1",
+					"TheBody": "0",
+					"Overlay": "No",
+					"setXalign": "0.0",
+					"setYalign": "0.0",
+					"Images": [
+						{
+							"Name": "Dominant",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Dominant.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Excited",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Excited.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Happy",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Happy.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Orgasm",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Orgasm.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Pleasured",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Pleasured.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Seductive",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Seductive.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						},
+						{
+							"Name": "Shy",
+							"File": "../Mods/HeroicMightMGD/images/Monsters/DemonSlime/Sex/SlimeSex_Expression_Shy.png",
+							"setXalign": "0.0",
+							"setYalign": "0.0"
+						}
+					]
+				}
+			]
+		}
+	]
 }

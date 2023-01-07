@@ -1,14 +1,14 @@
 {
-  "name": "Heroic Essence",
-  "description": "Gain the essense of heroes and satisfy the horniest of girls with ease! Gain a boost of 15% to virility.",
+	"name": "Heroic Essence",
+	"description": "Gain the essense of heroes and satisfy the horniest of girls with ease! Gain a boost of 15% to virility.",
 
-  "LevelReq": "10",
-  "PerkReq": [""],
-  "StatReq": ["Allure"],
-  "StatReqAmount": ["10"],
+	"LevelReq": "10",
+	"PerkReq": [""],
+	"StatReq": ["Allure"],
+	"StatReqAmount": ["10"],
 
-  "PerkType": ["VirilityBoost"],
-  "EffectPower": ["15"],
+	"PerkType": ["VirilityBoost"],
+	"EffectPower": ["15"],
 
-  "PlayerCanPurchase": "Yes"
+	"PlayerCanPurchase": "Yes"
 }

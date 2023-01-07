@@ -1,28 +1,30 @@
 {
-  "name": "Pray to the Goddess Statue.",
-  "Addition": "Yes",
-  "Speakers": [],
-  "EventText": [
-    {
-      "NameOfScene": "LucilleMenu",
-      "theScene": [
-        "MenuAddition",
-        "Learn Skills.",
-        "OverrideOption",
-        "FinalOption",
-        "Go back to praying.",
-        "EndLoop"
-      ]
-    },
-    {
-      "NameOfScene": "Learn Skills.",
-      "theScene": [
-        "SkillShoppingMenu",
-        "Heroic Headpat", "Hero's Lightning", "Heroic Advantage",
-        "EndLoop",
-        "JumpToScene",
-        "LucilleMenu"
-      ]
-    }
-  ]
+	"name": "Pray to the Goddess Statue.",
+	"Addition": "Yes",
+	"Speakers": [],
+	"EventText": [
+		{
+			"NameOfScene": "LucilleMenu",
+			"theScene": [
+				"MenuAddition",
+				"Learn Skills.",
+				"OverrideOption",
+				"FinalOption",
+				"Go back to praying.",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Learn Skills.",
+			"theScene": [
+				"SkillShoppingMenu",
+				"Heroic Headpat",
+				"Heroic Lightning",
+				"Heroic Advantage",
+				"EndLoop",
+				"JumpToScene",
+				"LucilleMenu"
+			]
+		}
+	]
 }

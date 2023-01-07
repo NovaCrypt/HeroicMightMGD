@@ -1,90 +1,93 @@
 {
-    "name": "Powerful 'demon' slime in woods!",
-    "CardType": "Quest",
-    "CardLimit": "1",
-    "Description": "",
-    "requires": [ "Sigil Of Allure"],
-    "Speakers": [
-        {
-            "name": "???",
-            "postName": "",
-            "SpeakerType": "?"
-        },
-        {
-            "name": "Azura",
-            "postName": "",
-            "SpeakerType": "monster"
-        }
-    ],
-    "EventText": [
-        {
-            "NameOfScene": "EventStart",
-            "theScene": [
-            "Stumbling though the shrubbery after some kind of glitch with your grimoir, you notice that the area around you has suddenly changed and can only ponder where you've ended up after the enchantment dropping you somewhere at random.",
-            "It's then that you see a clearing coming up through the bushes and decide to keep a low profile on your approach. This turns out to be one of your better ideas as you see a slime girl in the clearing with a purplish hue...",
-            "You recognise this to be a demonic slime, one of those monster girls that have addapted to the use of darker energies on this continent. The question is, do you take advantage of your stealthy position and head back to town, or approach the slime girl and attempt to strike a conversation of some kind?",
-            "Menu",
-            "Approach the slime...",
-            "Return to town.",
-            "EndLoop"
-            ]
-        },
-        {
-            "NameOfScene": "Approach the slime...",
-            "theScene": [
-                "You sneak up to the slime, it's lucky that she has her back turned to you otherwise this would certainly be much more difficult... Regardless, you get to about a meter away and ponder what action you should take from here, would it really be safe to talk to her, or should you just attack? Leaving is still an option...",
-                "DisplayCharacters",
-                "2",
-                "EndLoop",
-                "Menu",
-                "Talk?",
-                "ATTACK!",
-                "Leave.",
-                "EndLoop"
-            ]
-        },
-        {
-            "NameOfScene": "Talk?",
-            "theScene": [
-                "PlayerSpeaks",
-                "Hi there? I don't suppose you'd be interested in talking for a moment? Nothing lewd I swear!",
-                "ChangeImageLayer", "Expression", "2", "Angry",
-                "Speaks",
-                "What?! Where'd you come from? No way! Nobody just {i}talks{/i} these days... I won't let you trick me!",
-                "ChangeProgress",
-                "1",
-                "The slime takes on a combat stance and prepares to fight...",
-                "JumpToScene",
-                "ATTACK!"
-            ]
-        },
-        {
-            "NameOfScene": "ATTACK!",
-            "theScene": [
-                "CombatEncounter", "NoRunning",
-                "Azura",
-                "StartCombat",
-                "(Incomplete code here... I'm working on it... wait for the release?)",
-                "GoToTown"
-            ]
-        },
-        {
-            "NameOfScene": "Leave.",
-            "theScene": [
-                "PlayerSpeaks",
-                "({i}Hmmm... Maybe this isn't the best idea{/i}.)",
-                "DisplayCharacters",
-                "EndLoop",
-                "JumpToScene",
-                "Return to town."
-            ]
-        },
-        {
-            "NameOfScene": "Return to town.",
-            "theScene": [
-                "Deciding that you know better than to face a magically powered demonic slime while completely unawares of your own position, thanks to your grimoire... You depart the clearing and attempt to find your way back to town.",
-                "GoToTown"
-            ]
-        }
-    ]
+	"name": "Powerful 'demon' slime in woods!",
+	"CardType": "Quest",
+	"CardLimit": "1",
+	"Description": "",
+	"requires": ["Sigil Of Allure"],
+	"Speakers": [
+		{
+			"name": "???",
+			"postName": "",
+			"SpeakerType": "?"
+		},
+		{
+			"name": "Azura",
+			"postName": "",
+			"SpeakerType": "monster"
+		}
+	],
+	"EventText": [
+		{
+			"NameOfScene": "EventStart",
+			"theScene": [
+				"Stumbling though the shrubbery after some kind of glitch with your grimoir, you notice that the area around you has suddenly changed and can only ponder where you've ended up after the enchantment dropping you somewhere at random.",
+				"It's then that you see a clearing coming up through the bushes and decide to keep a low profile on your approach. This turns out to be one of your better ideas as you see a slime girl in the clearing with a purplish hue...",
+				"You recognise this to be a demonic slime, one of those monster girls that have addapted to the use of darker energies on this continent. The question is, do you take advantage of your stealthy position and head back to town, or approach the slime girl and attempt to strike a conversation of some kind?",
+				"Menu",
+				"Approach the slime...",
+				"Return to town.",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Approach the slime...",
+			"theScene": [
+				"You sneak up to the slime, it's lucky that she has her back turned to you otherwise this would certainly be much more difficult... Regardless, you get to about a meter away and ponder what action you should take from here, would it really be safe to talk to her, or should you just attack? Leaving is still an option...",
+				"DisplayCharacters",
+				"2",
+				"EndLoop",
+				"Menu",
+				"Talk?",
+				"ATTACK!",
+				"Leave.",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Talk?",
+			"theScene": [
+				"PlayerSpeaks",
+				"Hi there? I don't suppose you'd be interested in talking for a moment? Nothing lewd I swear!",
+				"ChangeImageLayer",
+				"Expression",
+				"2",
+				"Angry",
+				"Speaks",
+				"What?! Where'd you come from? No way! Nobody just {i}talks{/i} these days... I won't let you trick me!",
+				"ChangeProgress",
+				"1",
+				"The slime takes on a combat stance and prepares to fight...When has that ever worked for you?!",
+				"JumpToScene",
+				"ATTACK!"
+			]
+		},
+		{
+			"NameOfScene": "ATTACK!",
+			"theScene": [
+				"CombatEncounter",
+				"NoRunning",
+				"Azura",
+				"StartCombat",
+				"(Incomplete code here... I'm working on it... wait for the release?)",
+				"GoToTown"
+			]
+		},
+		{
+			"NameOfScene": "Leave.",
+			"theScene": [
+				"Deciding this may not be the best idea after all, you stealthily leave the scene.",
+				"DisplayCharacters",
+				"EndLoop",
+				"JumpToScene",
+				"Return to town."
+			]
+		},
+		{
+			"NameOfScene": "Return to town.",
+			"theScene": [
+				"You depart the clearing and attempt to find your way back to town.",
+				"GoToTown"
+			]
+		}
+	]
 }

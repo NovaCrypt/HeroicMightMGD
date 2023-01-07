@@ -1,55 +1,55 @@
 {
-    "name": "Azura's Cursed Band",
-    "itemType": "Accessory",
-    "cost": "0",
-    "descrip": "A cursed armband given to you by Azura, that odd demon slime. I am to wear this and show off to her rival...",
-    "requires": [""],
+	"name": "Azura's Cursed Band",
+	"itemType": "Accessory",
+	"cost": "0",
+	"descrip": "A cursed armband given to you by Azura, that odd demon slime. I am to wear this and show off to her rival...",
+	"requires": [""],
 
-    "perks": [""],
-    "skills": [""],
+	"perks": [""],
+	"skills": [""],
 
-    "hp": "0",
-    "ep": "0",
-    "sp": "0",
+	"hp": "0",
+	"ep": "0",
+	"sp": "0",
 
-    "Exp": "0",
-    "Power": "0",
-    "Technique": "0",
-    "Intelligence": "0",
-    "Allure": "20",
-    "Willpower": "0",
-    "Luck": "0",
+	"Exp": "0",
+	"Power": "0",
+	"Technique": "0",
+	"Intelligence": "0",
+	"Allure": "20",
+	"Willpower": "0",
+	"Luck": "0",
 
-    "statusEffect": "0",
-    "statusChance": "0",
-    "statusPotency": "0",
+	"statusEffect": "0",
+	"statusChance": "0",
+	"statusPotency": "0",
 
-    "BodySensitivity": {
-        "Sex": "30",
-        "Ass": "10",
-        "Breasts": "15",
-        "Mouth": "20",
-        "Seduction": "30",
-        "Magic": "50",
-        "Pain": "20",
-        "Holy": "70",
-        "Unholy": "50"
-    },
+	"BodySensitivity": {
+		"Sex": "30",
+		"Ass": "10",
+		"Breasts": "15",
+		"Mouth": "20",
+		"Seduction": "30",
+		"Magic": "50",
+		"Pain": "20",
+		"Holy": "70",
+		"Unholy": "50"
+	},
 
-    "resistancesStatusEffects": {
-        "Stun": "0",
-        "Charm": "0",
-        "Aphrodisiac": "0",
-        "Restraints": "0",
-        "Sleep": "0",
-        "Trance": "-20",
-        "Paralysis": "0",
-        "Debuff": "0"
-    },
+	"resistancesStatusEffects": {
+		"Stun": "0",
+		"Charm": "0",
+		"Aphrodisiac": "0",
+		"Restraints": "0",
+		"Sleep": "0",
+		"Trance": "-20",
+		"Paralysis": "0",
+		"Debuff": "0"
+	},
 
-    "useOutcome": "",
-    "useMiss": "",
+	"useOutcome": "",
+	"useMiss": "",
 
-    "onEquip": "",
-    "onUnequip": ""
+	"onEquip": "",
+	"onUnequip": ""
 }

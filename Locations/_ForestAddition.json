@@ -1,0 +1,24 @@
+{
+	"name": "Mystic Forest",
+	"Addition": "Yes",
+	"Events": [""],
+	"Quests": [""],
+	"Adventures": [""],
+	"Monsters": ["Demon Slime"],
+	"MonsterGroups": [
+		{
+			"Group": ["Demon Slime"]
+		}
+	],
+	"Treasure": [
+		{
+			"Common": [""]
+		},
+		{
+			"Uncommon": [""]
+		},
+		{
+			"Rare": [""]
+		}
+	]
+}

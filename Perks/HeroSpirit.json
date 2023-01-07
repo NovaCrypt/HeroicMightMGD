@@ -1,14 +1,14 @@
 {
-  "name": "Heroic Spirit",
-  "description": "Gain the spirit of heroes and endure the toughest of all battles with ease! You gain 3 spirit.",
+	"name": "Heroic Spirit",
+	"description": "Gain the spirit of heroes and endure the toughest of all battles with ease! You gain 3 spirit.",
 
-  "LevelReq": "30",
-  "PerkReq": [""],
-  "StatReq": ["Willpower"],
-  "StatReqAmount": ["30"],
+	"LevelReq": "30",
+	"PerkReq": [""],
+	"StatReq": ["Willpower"],
+	"StatReqAmount": ["30"],
 
-  "PerkType": ["GainSpirit"],
-  "EffectPower": ["3"],
+	"PerkType": ["GainSpirit"],
+	"EffectPower": ["3"],
 
-  "PlayerCanPurchase": "Yes"
+	"PlayerCanPurchase": "Yes"
 }
