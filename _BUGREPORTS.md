@@ -1,8 +1,10 @@
+<!-- @format -->
+
 # Bug Reporting Policy
 
 ## Supported Versions
 
-Below is a table with listing the currently supported versions 
+Below is a table with listing the currently supported versions
 of this mod. Please do not post issues for unsupported versions.
 
 | Version | Supported          |
@@ -11,7 +13,7 @@ of this mod. Please do not post issues for unsupported versions.
 
 ## Reporting a Vulnerability
 
-To report a bug or vulnerability, either post an issue to the GitHub 
-page or contact me via Discord on the MGD server's #mod-discussion 
+To report a bug or vulnerability, either post an issue to the GitHub
+page or contact me via Discord on the MGD server's #mod-discussion
 channel. Updates on a report will be given through the GitHub issue linked
 whenever there is a significant change to report.
